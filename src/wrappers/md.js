@@ -15,7 +15,7 @@ export default class MarkdownWrapper extends Component {
     const { route } = this.props;
     const { page: { data: post } } = route;
     const path = post.path = route.path;
-    const thumbnail = post.thumbnail ? `https://yuppi.es${path}${post.thumbnail}` : `https://yuppi.es/${avatar}`;
+    const thumbnail = post.thumbnail ? `https://khanhquoc.press${path}${post.thumbnail}` : `https://khanhquoc.press/${avatar}`;
     const posts = getBlogPosts(route);
 
     if (isBlogPost(post)) {

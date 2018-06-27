@@ -35,7 +35,7 @@ export default function HTML(props) {
         <meta name='twitter:creator' content='@f0rr0' />
 
         <meta property='fb:app_id' content='532441146961582' />
-        <meta property='og:url' content={`https://yuppi.es${path}`} />
+        <meta property='og:url' content={`https://khanhquoc.press${path}`} />
         <meta property='og:site_name' content='Yuppies' />
 
         {meta.toComponent()}

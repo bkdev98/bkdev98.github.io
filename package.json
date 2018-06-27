@@ -1,11 +1,8 @@
 {
-  "name": "yuppies",
-  "description": "f0rr0's blog (source)",
+  "name": "khanhquoc.press",
+  "description": "khanhquocpress's blog (source)",
   "version": "1.0.0",
-  "author": "Sid Jain <sid_26@outlook.com>",
-  "bugs": {
-    "url": "https://github.com/f0rr0/yuppies/issues"
-  },
+  "author": "Quoc Khanh <khanhbq@innoteq.vn>",
   "dependencies": {
     "chalk": "^1.1.3",
     "cheerio": "^0.22.0",
@@ -57,21 +54,7 @@
     "twemoji": "^2.2.0",
     "underscore.string": "^3.3.4"
   },
-  "homepage": "https://github.com/f0rr0/yuppies#readme",
-  "keywords": [
-    "yuppies",
-    "yuppi.es",
-    "f0rr0",
-    "sid",
-    "jain",
-    "siddharth",
-    "blog"
-  ],
   "license": "AGPL-3.0+",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/f0rr0/yuppies.git"
-  },
   "scripts": {
     "fix-css": "$(npm bin)/stylefmt -l $(ls ./src/css/*.css)",
     "lint-css": "npm run fix-css; $(npm bin)/stylelint ./src/css/*.css",

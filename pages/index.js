@@ -3,7 +3,7 @@ import React, { PropTypes } from 'react';
 import { Link } from 'react-router';
 import moment from 'moment';
 import Helmet from 'react-helmet';
-import QuantfiedSelf from '../src/components/QuantifiedSelf';
+// import QuantfiedSelf from '../src/components/QuantifiedSelf';
 import { getBlogPosts } from '../src/utils/blog-helpers';
 import '../src/css/lists.css';
 
@@ -36,19 +36,16 @@ export default function BlogIndex(props) {
           { name: 'twitter:title', content: docTitle }
         ]}
       />
-      <p>Hello, my name is <Link to='/about/'>Sid Jain</Link>.</p>
+      <p>Hello, my name is <Link to='/about/'>Quoc Khanh</Link>.</p>
       <p>
-        I am a developer living in <del>Los Angeles</del>
-        &nbsp;<del>New Delhi</del>&nbsp;<del>Mumbai</del>&nbsp;Berlin. I work at <Anchor href='//lh-innovationhub.de/en/' title='Lufthansa' />. I'm passionate about lambda calculus, house music and Mexican food.
+        I am a developer living in <del>My Tho</del>
+        &nbsp;Ho Chi Minh City.<br />I work at <Anchor href='//innoteq.vn' title='Innoteq Vietnam' />.<br />I'm passionate about software, music and beer.
       </p>
       <p>
-        I use <Link to='/about/#about-yuppies'>this space</Link> primarily for <Link to='/blog/'>writing</Link> and <Link to='/hire/'>reaching out</Link> to clients. The last piece I wrote was&nbsp;
+        The last piece I wrote was&nbsp;
         <i><Link to={path}>&lsquo;{title}&rsquo;</Link></i> {fromNow}.
       </p>
-      <p>
-        I am a huge proponent of <Anchor href='//en.wikipedia.org/wiki/Lifelog' title='lifelogging' /> and have been collecting actionable data on myself since early 2014. Here are the latest metrics from <Anchor href='//rescuetime.com' title='Rescuetime' /> and <Anchor href='http://last.fm/user/sidjain26' title='Last.fm' />:
-      </p>
-      <QuantfiedSelf />
+      {/* <QuantfiedSelf /> */}
     </section>
   );
 }

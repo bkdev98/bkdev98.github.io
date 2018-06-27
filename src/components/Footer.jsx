@@ -13,55 +13,39 @@ export default function Footer() {
     <footer>
       <section>
         <p>
-          <a href='mailto:sid_26@outlook.com' >
-            <Icon icon='send' /> sid_26@outlook.com
+          <a href='mailto:khanhbq@innoteq.vn' >
+            <Icon icon='send' /> khanhbq@innoteq.vn
           </a>
         </p>
         <ul>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//yuppi.es/atom'>
-              <Icon icon='rss' />
-            </a>
-          </li>
-          <li>
-            <a rel='noopener noreferrer' target='__blank' href='//facebook.com/f0rr0'>
+            <a rel='noopener noreferrer' target='__blank' href='//facebook.com/bkdev98'>
               <Icon icon='facebook' />
             </a>
           </li>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//twitter.com/f0rr0'>
+            <a rel='noopener noreferrer' target='__blank' href='//twitter.com/bkdev98'>
               <Icon icon='twitter' />
             </a>
           </li>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//github.com/f0rr0'>
+            <a rel='noopener noreferrer' target='__blank' href='//github.com/bkdev98'>
               <Icon icon='github' />
             </a>
           </li>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//linkedin.com/in/f0rr0'>
+            <a rel='noopener noreferrer' target='__blank' href='//linkedin.com/in/bkdev98'>
               <Icon icon='linkedin' />
             </a>
           </li>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//medium.com/@f0rr0'>
+            <a rel='noopener noreferrer' target='__blank' href='//medium.com/@khanhbq'>
               <Icon icon='medium' />
             </a>
           </li>
           <li>
-            <a rel='noopener noreferrer' target='__blank' href='//open.spotify.com/user/sidjain95'>
+            <a rel='noopener noreferrer' target='__blank' href='//open.spotify.com/user/bkdev98'>
               <Icon icon='spotify' />
-            </a>
-          </li>
-          <li>
-            <a rel='noopener noreferrer' target='__blank' href='//www.last.fm/user/sidjain26'>
-              <Icon icon='lastfm' />
-            </a>
-          </li>
-          {/* Crazy goodreads icon */}
-          <li style={{ paddingLeft: 0 }}>
-            <a rel='noopener noreferrer' target='__blank' href='//goodreads.com/f0rr0'>
-              <Icon icon='goodreads' />
             </a>
           </li>
         </ul>

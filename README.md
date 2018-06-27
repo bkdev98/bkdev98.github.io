@@ -1,17 +1,18 @@
-## https://yuppi.es
+## https://khanhquoc.press
 
 Source code for my blog.
 
 ### Installation
 
 You will need [gatsby](https://github.com/gatsbyjs/gatsby), obviously.
+I also use [Yarn](https://yarnpkg.com/lang/en/) instead of `npm`. Give it a try, you are gonna love it.
 
 ```
-npm i -g gatsby
-git clone https://github.com/f0rr0/f0rr0.github.io
-cd f0rr0.github.io
-npm i
-npm run dev
+yarn add --global gatsby
+git clone https://github.com/bkdev98/khanhquoc.press
+cd khanhquoc.press
+yarn
+yarn dev
 ```
 
 You should have the site running on `localhost:8000`.
@@ -35,9 +36,3 @@ npm run medium
 ```
 
 Make sure you edit `config.toml` to reflect *your own* website.
-
-### License
-
-The files under `blog` are Copyright 2016, All Rights Reserved.
-
-The rest of the project is under the [GNU Affero General Public License v3.0.](http://www.gnu.org/licenses/agpl-3.0.txt)

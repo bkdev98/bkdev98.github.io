@@ -5,7 +5,7 @@ description: Mọi thứ rồi sẽ thay đổi, điều đáng buồn là vì c
 thumbnail: hero.jpg
 ---
 
-![Đêm muộn tại CTG](./hero.jpg){.full-width}
+![](./hero.jpg){.full-width}
 
 Hồi tôi đi học, rất hay vào blog tên là `Heavenly Wind`. Tác giả là một anh tầm hơn tôi vài tuổi, chia sẻ nhiều thứ, truyện ngắn, tản mạn, nhạc, ảnh, MBTI… nhiều thứ. Đối với cậu trai như tôi lúc đó, là nhiều thứ.
 

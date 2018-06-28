@@ -1,7 +1,7 @@
 import React, { PropTypes } from 'react';
 import Masthead from '../src/components/Masthead';
 import Footer from '../src/components/Footer';
-import '../src/css/yuppies.css';
+import '../src/css/style.css';
 
 export default function Template({ children }) {
   return (

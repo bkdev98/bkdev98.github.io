@@ -1,5 +1,5 @@
 ---
-title: Học Cách Sống Trọn Vẹn Hơn
+title: Học cách sống trọn vẹn hơn
 date: 02/18/2018
 description: >-
   Tôi biết một anh chàng trên Internet đã xem *Groundhog Day* (Ngày chuột chũi)

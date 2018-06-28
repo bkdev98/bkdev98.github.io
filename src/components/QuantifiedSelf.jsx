@@ -6,7 +6,7 @@ import Category from './Category';
 import StaggerFlipMove from './StaggerFlipMove';
 import '../css/lists.css';
 
-const API_URL = process.env.NODE_ENV === 'dev' ? 'http://localhost:1221' : 'https://kqp-service.herokuapp.com/tracks';
+const API_URL = process.env.NODE_ENV === 'dev' ? 'http://localhost:1221' : 'https://kqp-service.herokuapp.com';
 
 const DoubleBounce = () =>
   <div className={'double-bounce'}>

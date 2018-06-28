@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khanhquoc.press/</id>
     <title>Khanh Quoc Press</title>
-    <updated>2018-06-28T11:05:45Z</updated>
+    <updated>2018-06-28T13:02:49Z</updated>
     <author>
         <name>Quoc Khanh</name>
         <email>khanhbq@innoteq.vn</email>
@@ -12,6 +12,45 @@
     <subtitle>By Quoc Khanh — a believer, dreamer and maker of things.</subtitle>
     <rights>All rights reserved  2018, Sid Jain</rights>
     <generator>Feed for Node.js</generator>
+    <entry>
+        <title type="html"><![CDATA[Chiều về muộn trên đường khởi nghiệp]]></title>
+        <id>https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/</id>
+        <link href="https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/">
+        </link>
+        <updated>2017-06-13T17:00:00Z</updated>
+        <summary type="html"><![CDATA[Người lập trình, thấy được sức mạnh của máy tính, của Internet, của thời đại Công Nghệ Thông Tin, ai mà không có cái tham vọng biến mấy dòng code thành những giá trị vượt trội...]]></summary>
+        <content type="html"><![CDATA[<figure><img src="https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/waccoffee.jpg" alt="" class="full-width"></figure>
+<p>Ng&#x1B0;&#x1EDD;i l&#x1EAD;p tr&#xEC;nh, th&#x1EA5;y &#x111;&#x1B0;&#x1EE3;c s&#x1EE9;c m&#x1EA1;nh c&#x1EE7;a m&#xE1;y t&#xED;nh, c&#x1EE7;a Internet, c&#x1EE7;a th&#x1EDD;i &#x111;&#x1EA1;i C&#xF4;ng Ngh&#x1EC7; Th&#xF4;ng Tin, ai m&#xE0; kh&#xF4;ng c&#xF3; c&#xE1;i tham v&#x1ECD;ng bi&#x1EBF;n m&#x1EA5;y d&#xF2;ng code th&#xE0;nh nh&#x1EEF;ng gi&#xE1; tr&#x1ECB; v&#x1B0;&#x1EE3;t tr&#x1ED9;i.</p>
+<p><em>Nh&#x1B0;ng h&#xF4;m nay chi&#x1EC1;u v&#x1EC1; h&#x1A1;i mu&#x1ED9;n.</em></p>
+<p>Ng&#xE0;y Google b&#x1EAF;t &#x111;&#x1EA7;u, &#x111;&#xE3; c&#xF3; h&#x1A1;n hai m&#x1B0;&#x1A1;i b&#x1ED9; m&#xE1;y t&#xEC;m ki&#x1EBF;m ho&#x1EA1;t &#x111;&#x1ED9;ng. Trong tay h&#x1ECD; l&#xE0; ba &#xFD; t&#x1B0;&#x1EDF;ng ch&#xED;nh: th&#x1ED1;ng k&#xEA; nhi&#x1EC1;u h&#x1A1;n, d&#xF9;ng nh&#x1EEF;ng li&#xEA;n k&#x1EBF;t &#x111;&#x1EC3; x&#x1EBF;p h&#x1EA1;ng c&#xE1;c k&#x1EBF;t qu&#x1EA3;, v&#xE0; &#x111;&#xED;ch &#x111;&#x1EBF;n ph&#x1EA3;i l&#xE0; m&#x1ED9;t trang t&#xEC;m ki&#x1EBF;m &#x111;&#x1B0;&#x1EE3;c t&#x1ED1;i gi&#x1EA3;n v&#x1EDB;i nh&#x1EEF;ng t&#x1EEB; kho&#xE1;.</p>
+<p>Kh&#xF4;ng nghi ng&#x1EDD; g&#xEC; v&#x1EDB;i nh&#x1EEF;ng c&#xF4;ng ngh&#x1EC7; tuy&#x1EC7;t v&#x1EDD;i &#x111;&#x1B0;&#x1EE3;c t&#xED;nh h&#x1EE3;p trong Google, tuy nhi&#xEA;n v&#x1EC1; t&#x1ED5;ng th&#x1EC3;, k&#x1EBF; ho&#x1EA1;ch c&#x1EE7;a h&#x1ECD; th&#x1EF1;c s&#x1EF1; &#x111;&#x1A1;n gi&#x1EA3;n.</p>
+<p><em>S&#x1EF1; kh&#xE1;c bi&#x1EC7;t n&#x1EB1;m &#x1EDF;, tr&#xEA;n t&#x1EA5;t c&#x1EA3;, h&#x1ECD; mu&#x1ED1;n l&#xE0;m ra m&#x1ED9;t trang web c&#xF3; th&#x1EC3; s&#x1EED; d&#x1EE5;ng t&#x1ED1;t!</em></p>
+<figure><img src="https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/elevator.jpg" alt="" class="full-width"></figure>
+<p>D&#xF9; cho &#x111;&#xED;ch &#x111;&#x1EBF;n hi&#x1EC7;n t&#x1EA1;i c&#x1EE7;a h&#x1ECD; c&#xF3; l&#x1EBD; &#x111;&#xE3; l&#x1EDB;n h&#x1A1;n r&#x1EA5;t nhi&#x1EC1;u v&#x1EDB;i t&#x1EA5;t th&#x1EA3;y h&#x1EC7; sinh th&#xE1;i kh&#x1ED5;ng l&#x1ED3;, nh&#x1B0;ng &#xFD; t&#x1B0;&#x1EDF;ng ban &#x111;&#x1EA7;u &#x111;&#xF3; &#x111;&#xE3; l&#xE0;m &#x111;&#x1B0;&#x1EE3;c r&#x1EA5;t nhi&#x1EC1;u &#x111;i&#x1EC1;u, kh&#xF4;ng ch&#x1EC9; mang &#x111;&#x1EBF;n kho&#x1EA3;n l&#x1EE3;i nhu&#x1EAD;n kh&#x1ED5;ng l&#x1ED3; m&#xE0; c&#xF2;n thay &#x111;&#x1ED5;i c&#xE1;ch th&#x1EBF; gi&#x1EDB;i giao ti&#x1EBF;p v&#x1EDB;i th&#xF4;ng tin, v&#x1EDB;i Internet.</p>
+<blockquote>
+<p>M&#x1ED9;t &#xFD; t&#x1B0;&#x1EDF;ng c&#xF3; th&#x1EC3; &#x111;&#xE3; t&#x1EEB;ng t&#x1ED3;n t&#x1EA1;i trong qu&#xE1; kh&#x1EE9;, kh&#xF4;ng c&#xF3; ngh&#x129;a n&#xF3; s&#x1EBD; kh&#xF4;ng ho&#x1EA1;t &#x111;&#x1ED9;ng trong t&#x1B0;&#x1A1;ng lai.</p>
+</blockquote>
+<p>&#x110;&#x1EEB;ng ng&#x1EA1;i l&#xE0;m c&#xE1;i m&#x1EDB;i, c&#x169;ng &#x111;&#x1EEB;ng ng&#x1EA1;i l&#xE0;m c&#xE1;i c&#x169;, h&#xE3;y l&#xE0;m t&#x1ED1;t c&#xE1;i m&#xEC;nh mu&#x1ED1;n l&#xE0;m.</p>
+<h3>&#xDD; t&#x1B0;&#x1EDF;ng kh&#xF4;ng n&#xEA;n l&#xE0; th&#x1EE9; n&#xED;u gi&#x1EEF; b&#x1EA1;n b&#x1EAF;t &#x111;&#x1EA7;u.</h3>
+<figure><img src="https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/night.jpg" alt="" class="full-width"></figure>
+<p>T&#x1EAD;n h&#x1B0;&#x1EDF;ng nh&#x1EEF;ng kho&#x1EA3;nh kh&#x1EAF;c mu&#x1ED9;n c&#x1EE7;a bu&#x1ED5;i chi&#x1EC1;u, nh&#x1B0; ng&#xE0;y h&#xF4;m nay, tho&#x1EA3;ng nh&#xEC;n ra d&#xF2;ng ng&#x1B0;&#x1EDD;i ng&#x1B0;&#x1EE3;c xu&#xF4;i ngo&#xE0;i kia, ch&#x1EB3;ng ph&#xFA;t n&#xE0;o ng&#x1A1;i ngh&#x1EC9;.</p>
+<p>V&#xEC; gi&#xE1; tr&#x1ECB; c&#x1EE7;a m&#x1ED9;t s&#x1EA3;n ph&#x1EA9;m c&#xF4;ng ngh&#x1EC7; n&#x1EB1;m &#x1EDF; gi&#xE1; tr&#x1ECB; m&#xE0; n&#xF3; &#x111;em &#x111;&#x1EBF;n cho ng&#x1B0;&#x1EDD;i s&#x1EED; d&#x1EE5;ng.</p>
+<p>M&#x1ED9;t startup l&#xE0;m ra ti&#x1EC1;n b&#x1EB1;ng c&#xE1;ch thu h&#xFA;t ng&#x1B0;&#x1EDD;i d&#xF9;ng nhi&#x1EC1;u h&#x1A1;n l&#xE0; nh&#x1EEF;ng c&#xF4;ng ngh&#x1EC7; n&#xF3; s&#x1EDF; h&#x1EEF;u. R&#xF5; r&#xE0;ng, nh&#x1EEF;ng g&#xEC; con ng&#x1B0;&#x1EDD;i s&#x1EED; d&#x1EE5;ng ng&#xE0;y h&#xF4;m nay v&#x1EAB;n ch&#x1B0;a th&#x1EC3; khi&#x1EBF;n m&#x1ED9;t ai c&#xF3; th&#x1EC3; t&#x1EF1; h&#xE0;o. C&#xF2;n r&#x1EA5;t nhi&#x1EC1;u c&#xE1;c l&#x129;nh v&#x1EF1;c ch&#x1B0;a th&#x1EF1;c s&#x1EF1; t&#xEC;m ra gi&#x1EA3;i ph&#xE1;p c&#xF4;ng ngh&#x1EC7;, kh&#xF4;ng kh&#xE1;c g&#xEC; c&#xE1;c c&#xF4;ng c&#x1EE5; t&#xEC;m ki&#x1EBF;m tr&#x1B0;&#x1EDB;c Google.</p>
+<p>M&#x1ED9;t l&#x1EA7;n n&#x1EEF;a, nh&#xEC;n ra d&#xF2;ng ng&#x1B0;&#x1EDD;i ng&#x1B0;&#x1EE3;c xu&#xF4;i ngo&#xE0;i kia, ch&#x1EB3;ng ph&#xFA;t n&#xE0;o ng&#x1A1;i ngh&#x1EC9;&#x2026;</p>
+<figure><img src="https://khanhquoc.press/blog/chieu-ve-muon-tren-duong-khoi-nghiep/work.jpg" alt="" class="full-width"></figure>
+<blockquote>
+<p>L&#xE0;m &#x111;i&#x1EC1;u m&#xE0; b&#x1EA1;n y&#xEA;u th&#xED;ch, v&#xE0; nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i xung quanh b&#x1EA1;n y&#xEA;u th&#xED;ch.</p>
+</blockquote>
+<p>&#x110;&#xEA;m &#x111;&#x1EBF;n bao tr&#xF9;m d&#xE3;y d&#xE3;y cao t&#x1EA7;ng gi&#x1EEF;a l&#xF2;ng th&#xE0;nh ph&#x1ED1;, &#x111;&#xE8;n &#x111;&#x1B0;&#x1EDD;ng s&#xE1;ng d&#x1EA7;n l&#xEA;n.
+D&#x1EEB;ng l&#x1EA1;i, t&#xEC;m cho m&#xEC;nh ph&#xFA;t ngh&#x129; suy &#x1EDF; g&#xF3;c c&#xF4;ng vi&#xEA;n y&#xEA;n v&#x1EAF;ng, trong b&#x1ED9;n b&#x1EC1; cu&#x1ED9;c s&#x1ED1;ng, l&#x1EA1;i kh&#x1EDF;i &#x111;&#x1ED9;ng c&#xE1;i laptop nh&#x1ECF;, nhi&#x1EC1;u ho&#xE0;i b&#xE3;o, khi ngo&#xE0;i kia c&#xF2;n l&#xE0; ti&#x1EBF;ng k&#xE8;n inh &#x1ECF;i c&#x1EE7;a h&#xE0;ng xe chen ch&#xFA;t n&#x1ED1;i d&#xE0;i&#x2026;</p>
+<p><em>C&#x1EA3;m h&#x1EE9;ng t&#x1EEB; <a href="https://www.startupschool.org/">Y Combinator</a>.</em></p>
+]]></content>
+        <author>
+            <name>Quoc Khanh</name>
+            <email>khanhbq@innoteq.vn</email>
+            <uri>https://khanhquoc.press/about</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chúng ta còn lại gì]]></title>
         <id>https://khanhquoc.press/blog/chung-ta-con-lai-gi/</id>
@@ -66,7 +105,31 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Học Cách Sống Trọn Vẹn Hơn]]></title>
+        <title type="html"><![CDATA[Điều quan trọng nhất]]></title>
+        <id>https://khanhquoc.press/blog/dieu-quan-trong-nhat/</id>
+        <link href="https://khanhquoc.press/blog/dieu-quan-trong-nhat/">
+        </link>
+        <updated>2018-05-26T17:00:00Z</updated>
+        <summary type="html"><![CDATA[Tôi rảo bước trong những suy nghĩ vỡ vẩn. Sài Gòn một buổi chiều có nắng, hơi oi và đông đúc những dòng người qua lại.]]></summary>
+        <content type="html"><![CDATA[<figure><img src="https://khanhquoc.press/blog/dieu-quan-trong-nhat/sunset.jpg" alt="&quot;Sunset at Quang Trung Software City.&quot;" class="full-width"><figcaption>&quot;Sunset at Quang Trung Software City.&quot;</figcaption></figure>
+<p>T&#xF4;i r&#x1EA3;o b&#x1B0;&#x1EDB;c trong nh&#x1EEF;ng suy ngh&#x129; v&#x1EE1; v&#x1EA9;n. S&#xE0;i G&#xF2;n m&#x1ED9;t bu&#x1ED5;i chi&#x1EC1;u c&#xF3; n&#x1EAF;ng, h&#x1A1;i oi v&#xE0; &#x111;&#xF4;ng &#x111;&#xFA;c nh&#x1EEF;ng d&#xF2;ng ng&#x1B0;&#x1EDD;i qua l&#x1EA1;i</p>
+<p>&#x110;&#xF4;i khi c&#xF3; nh&#x1EEF;ng &#x111;i&#x1EC1;u b&#xEC;nh d&#x1ECB; l&#x1EA1;i khi&#x1EBF;n b&#x1EA3;n th&#xE2;n dao &#x111;&#x1ED9;ng v&#xEC; nh&#x1EEF;ng th&#x1EE9; &#x111;&#xE3; t&#x1B0;&#x1EDF;ng nh&#x1B0; qua l&#xE2;u l&#x1EAF;m &#x1EA5;y.</p>
+<p>Anh b&#x1EA1;n t&#xF4;i c&#xF3; m&#x1ED9;t ng&#x1B0;&#x1EDD;i b&#x1EA1;n, th&#x1EC9;nh tho&#x1EA3;ng &#x1EA3;nh k&#x1EC3; m&#x1EA5;y chuy&#x1EC7;n vu v&#x1A1; gi&#x1EEF;a hai ng&#x1B0;&#x1EDD;i, t&#xF4;i ch&#x1EC9; nghe nh&#x1B0; chuy&#x1EC7;n phi&#x1EBF;m gi&#x1EEF;a anh v&#xE0; t&#xF4;i.</p>
+<p>Chi&#x1EC1;u nh&#x1EB9;, c&#xF3; n&#x1EAF;ng v&#xE0; h&#x1A1;i oi, anh n&#xF3;i v&#x1EC1; t&#xEC;nh b&#x1EA1;n &#x111;&#xF3;, &#x111;&#xE3; qua, gi&#x1ECD;ng nh&#x1B0; v&#x1ECD;ng l&#x1EA1;i t&#x1EEB; n&#x1A1;i xa l&#x1EAF;m.</p>
+<p>Th&#x1EBF; v&#x1EAD;y, &#x111;&#xF4;i khi nh&#x1EEF;ng &#x111;i&#x1EC1;u b&#xEC;nh th&#x1B0;&#x1EDD;ng nh&#x1B0;ng &#x1EA9;n trong &#x111;&#xF3; l&#xE0; t&#x1EA5;t c&#x1EA3; t&#xEC;nh y&#xEA;u v&#xE0; t&#xF4;n tr&#x1ECD;ng.</p>
+<p>Chi&#x1EC1;u nh&#x1EB9;, t&#xF4;i c&#x169;ng kh&#xF4;ng h&#x1ECF;i r&#x1EB1;ng chuy&#x1EC7;n v&#xEC; sao. Uh, c&#xE1;i g&#xEC; &#x111;&#xE3; qua l&#xE0; &#x111;&#xE3; qua, &#x111;&#xE3; qua r&#x1ED3;i.</p>
+<blockquote>
+<p>T&#xF4;i th&#x1EC9;nh tho&#x1EA3;ng t&#x1EF1; h&#x1ECF;i v&#x1EC1; &#x111;i&#x1EC1;u g&#xEC; l&#xE0; quan tr&#x1ECD;ng. &#x110;&#x1B0;&#x1EE3;c y&#xEA;u hay bi&#x1EBF;t m&#xEC;nh &#x111;&#x1B0;&#x1EE3;c y&#xEA;u.</p>
+</blockquote>
+]]></content>
+        <author>
+            <name>Quoc Khanh</name>
+            <email>khanhbq@innoteq.vn</email>
+            <uri>https://khanhquoc.press/about</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Học cách sống trọn vẹn hơn]]></title>
         <id>https://khanhquoc.press/blog/hoc-cach-song-tron-ven-hon/</id>
         <link href="https://khanhquoc.press/blog/hoc-cach-song-tron-ven-hon/">
         </link>

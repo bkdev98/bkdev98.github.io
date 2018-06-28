@@ -169,6 +169,10 @@ hr {
   background-color: rgba(216, 216, 214, 0.996);
 }
 
+img[alt="404"] {
+  width: 100%;
+}
+
 img::selection {
   background-color: rgba(216, 216, 214, 0.5);
 }

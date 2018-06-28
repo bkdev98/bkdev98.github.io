@@ -31,7 +31,7 @@ export default class MarkdownWrapper extends Component {
               { property: 'og:type', content: 'article' },
               { property: 'og:title', content: docTitle },
               { property: 'og:image', content: thumbnail },
-              { property: 'article:author', content: 'https://facebook.com/f0rr0' },
+              { property: 'article:author', content: 'https://facebook.com/bkdev98' },
               { property: 'article:published_time', content: `${moment(post.date, 'MM/DD/YYYY').format()}` },
               { name: 'twitter:description', content: post.description },
               { name: 'twitter:title', content: docTitle }
@@ -67,7 +67,7 @@ export default class MarkdownWrapper extends Component {
             { name: 'description', content: config.description },
             { property: 'og:type', content: 'article' },
             { property: 'og:title', content: post.title },
-            { property: 'article:author', content: 'https://facebook.com/f0rr0' },
+            { property: 'article:author', content: 'https://facebook.com/bkdev98' },
             { property: 'article:published_time', content: `${moment(post.date, 'MM/DD/YYYY').format()}` },
             { name: 'twitter:description', content: config.description },
             { name: 'twitter:title', content: post.title }

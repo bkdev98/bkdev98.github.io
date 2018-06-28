@@ -29,14 +29,13 @@ export default function HTML(props) {
         {title.toComponent()}
 
         <meta name='robots' content='index, follow' />
-        <meta name='author' content='Sid Jain' />
+        <meta name='author' content='Quoc Khanh' />
 
         <meta name='twitter:card' content='summary_large_image' />
-        <meta name='twitter:creator' content='@f0rr0' />
+        <meta name='twitter:creator' content='@bkdev98' />
 
-        <meta property='fb:app_id' content='532441146961582' />
         <meta property='og:url' content={`https://khanhquoc.press${path}`} />
-        <meta property='og:site_name' content='Yuppies' />
+        <meta property='og:site_name' content='Khanh Quoc Press' />
 
         {meta.toComponent()}
 

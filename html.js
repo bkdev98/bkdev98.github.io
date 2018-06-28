@@ -45,6 +45,13 @@ export default function HTML(props) {
       <body className='container'>
         <div id='react-mount' dangerouslySetInnerHTML={{ __html: body }} />
         <script async src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
+        <script async src='https://www.googletagmanager.com/gtag/js?id=UA-121546163-1' />
+        <script
+          async
+          dangerouslySetInnerHTML={{
+            __html: "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-121546163-1');"
+          }}
+        />
       </body>
     </html>
   );

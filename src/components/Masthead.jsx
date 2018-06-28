@@ -26,6 +26,12 @@ export default function Masthead() {
           </li>
           &middot;
           <li>
+            <Link to={prefixLink('/portfolio/')}>
+              Portfolio
+            </Link>
+          </li>
+          &middot;
+          <li>
             <Link to={prefixLink('/hire/')}>
               Hire Me
             </Link>

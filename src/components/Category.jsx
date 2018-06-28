@@ -17,7 +17,7 @@ const Timestamp = (props) => {
 };
 
 Timestamp.propTypes = {
-  time: PropTypes.string
+  time: PropTypes.number
 };
 
 const Activities = (props) => {
@@ -60,5 +60,5 @@ export default class Category extends Component {
 Category.propTypes = {
   activities: PropTypes.array,
   category: PropTypes.string,
-  time: PropTypes.string,
+  time: PropTypes.number,
 };

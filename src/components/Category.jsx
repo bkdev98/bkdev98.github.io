@@ -1,16 +1,27 @@
 import React, { Component, PropTypes } from 'react';
 import { prefixLink } from 'gatsby-helpers'; // eslint-disable-line
 import kebabCase from 'lodash.kebabcase';
+import moment from 'moment';
 
-const Timestamp = props =>
-  <time>{props.time}</time>;
+const Timestamp = (props) => {
+  const hours = moment.utc(props.time * 1000).format('H');
+  const minutes = moment.utc(props.time * 1000).format('mm');
+  const seconds = moment.utc(props.time * 1000).format('ss');
+  return (
+    <time>
+      {hours !== '0' && `${hours} hours `}
+      {minutes !== '00' && `${minutes} minutes `}
+      {(seconds !== '00' && hours === '0') && `${seconds} seconds `}
+    </time>
+  );
+};
 
 Timestamp.propTypes = {
   time: PropTypes.string
 };
 
 const Activities = (props) => {
-  const activities = props.activities.map(({ activity }) => activity).join(', ');
+  const activities = props.activities.join(', ');
   return (
     <div title={activities} className='activities ellipsis'>
       {activities}

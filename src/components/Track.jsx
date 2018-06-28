@@ -28,7 +28,7 @@ const Timestamp = (props) => {
     );
   }
   return (
-    <Ago date={props.timestamp.uts * 1000} />
+    <Ago date={props.timestamp.uts} />
   );
 };
 

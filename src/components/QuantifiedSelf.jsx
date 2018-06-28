@@ -1,5 +1,7 @@
 import React, { Component, PropTypes } from 'react';
 import Rebase from 're-base';
+import axios from 'axios';
+
 import Track from './Track';
 import Category from './Category';
 import StaggerFlipMove from './StaggerFlipMove';
@@ -38,6 +40,7 @@ export default class QuantfiedSelf extends Component {
 
   componentDidMount() {
     this.init();
+    this.fetchTracks();
   }
 
   componentDidUpdate() {
@@ -68,6 +71,37 @@ export default class QuantfiedSelf extends Component {
     });
   }
 
+  fetchTracks = async () => {
+    const result = await axios.get('https://api.spotify.com/v1/me/player/recently-played', {
+      params: {
+        type: 'track',
+        limit: 5,
+      },
+      headers: {
+        Accept: 'application/json',
+        'Content-Type': 'application/json',
+        Authorization: 'Bearer BQAMUaRrYAZFtI6ia7kq6bsV6n3I6H9MJ4xTf1WK5PWMyH8bARr2FbrJKQCJsHLLVe20Ks0HRRS6PX3A7fxuYExFy7FbCA3L8Ha8f9m9ZP5SDwCyH5xT8sv_VL2boQztHzkEd7aTET3a',
+      }
+    });
+    const tracks = result.data.items.map(item => ({
+      artist: item.track.artists[0].name,
+      key: item.track.id,
+      link: item.track.external_urls.spotify,
+      thumbs: {
+        alt: item.track.album.images[0].url,
+        yt: item.track.album.images[0].url,
+      },
+      timestamp: {
+        uts: new Date(item.played_at).getTime(),
+      },
+      title: item.track.name,
+    }));
+    this.setState({ tracks });
+    if (this.state.categories) {
+      this.setState({ loading: false });
+    }
+  }
+
   init() {
     this.base = Rebase.createClass({
       apiKey: 'AIzaSyCTV2O9hthOdcC6uxTgbtFVWu7HxiYH_0g',
@@ -81,27 +115,6 @@ export default class QuantfiedSelf extends Component {
       then: (date) => {
         this.setState({ date });
 
-        this.tracksRef = this.base.listenTo(`${date.toString()}/recentTracks`, {
-          context: this,
-          asArray: true,
-          queries: {
-            limitToFirst: 5
-          },
-          then: (allTracks) => {
-            const tracks = allTracks.map((track) => {
-              const key = this.getTrackKey(track);
-              return {
-                ...track,
-                key
-              };
-            });
-            this.setState({ tracks });
-            if (this.state.categories) {
-              this.setState({ loading: false });
-            }
-          }
-        });
-        this.refsArr.push(this.tracksRef);
         this.catsRef = this.base.listenTo(`${date.toString()}/categories`, {
           context: this,
           asArray: true,

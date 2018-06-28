@@ -3,7 +3,7 @@ import React, { PropTypes } from 'react';
 import { Link } from 'react-router';
 import moment from 'moment';
 import Helmet from 'react-helmet';
-// import QuantfiedSelf from '../src/components/QuantifiedSelf';
+import QuantfiedSelf from '../src/components/QuantifiedSelf';
 import { getBlogPosts } from '../src/utils/blog-helpers';
 import '../src/css/lists.css';
 
@@ -45,7 +45,7 @@ export default function BlogIndex(props) {
         The last piece I wrote was&nbsp;
         <i><Link to={path}>&lsquo;{title}&rsquo;</Link></i> {fromNow}.
       </p>
-      {/* <QuantfiedSelf /> */}
+      <QuantfiedSelf />
     </section>
   );
 }

@@ -2,8 +2,9 @@ import React from 'react';
 import TagIcon from 'react-icons/lib/ti/tag';
 import EmotionIcon from 'react-icons/lib/ti/heart-outline';
 import LifeIcon from 'react-icons/lib/ti/anchor';
-import MoviesIcon from 'react-icons/lib/ti/film';
 import StartupIcon from 'react-icons/lib/ti/coffee';
+
+import Icon from './Icon';
 
 const tagList = {
   general: {
@@ -24,13 +25,23 @@ const tagList = {
   movies: {
     label: 'Movies',
     color: '#f92672',
-    icon: MoviesIcon,
+    icon: 'film',
   },
   startup: {
     label: 'Startup',
     color: '#f92672',
     icon: StartupIcon,
-  }
+  },
+  react: {
+    label: 'React',
+    color: '#f92672',
+    icon: 'react',
+  },
+  node: {
+    label: 'Node',
+    color: '#f92672',
+    icon: 'node',
+  },
 };
 
 const Tags = ({ tags }) => (
@@ -42,7 +53,7 @@ const Tags = ({ tags }) => (
       marginTop: 10,
     }}
   >
-    {tags.map(tag => (
+    {tags.map(tag => !tagList[tag] ? null : (
       <div
         key={tagList[tag].label}
         style={{
@@ -64,14 +75,12 @@ const Tags = ({ tags }) => (
             alignItems: 'center'
           }}
         >
+          {typeof tagList[tag].icon === 'string'
+            ? <Icon type={tagList[tag].icon} fill='#f92672' size={14} />
+            : tagList[tag].icon()
+          }
 
-          {tagList[tag].icon()}
-
-          <div
-            style={{
-              marginLeft: 3
-            }}
-          >
+          <div style={{ marginLeft: 3 }}>
             {tagList[tag].label}
           </div>
         </div>

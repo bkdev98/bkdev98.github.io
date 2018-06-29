@@ -40,6 +40,7 @@ export default function HTML(props) {
         {meta.toComponent()}
 
         <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' />
+        <link rel='shortcut icon' href='http://localhost:8000/icons/icon.png' />
         {css}
       </head>
       <body className='container'>

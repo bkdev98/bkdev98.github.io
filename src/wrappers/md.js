@@ -2,6 +2,7 @@ import React, { Component, PropTypes } from 'react';
 import moment from 'moment';
 import Helmet from 'react-helmet';
 import { config } from 'config'; // eslint-disable-line
+
 import { TweetThis, FacebookShare } from '../components/Social';
 import ReadNext from '../components/ReadNext';
 import Tags from '../components/Tags';
@@ -11,7 +12,7 @@ import avatar from '../../images/avatar.jpg';
 
 import '../css/tomorrow-night.css';
 
-export default class MarkdownWrapper extends Component {
+class MarkdownWrapper extends Component {
   render() {
     const { route } = this.props;
     const { page: { data: post } } = route;
@@ -46,7 +47,7 @@ export default class MarkdownWrapper extends Component {
                 <Tags tags={post.tags} />
               </div>
             </header>
-            <div className='post-content' dangerouslySetInnerHTML={{ __html: post.body }} />
+            <div className='post-content' ref='markdown' dangerouslySetInnerHTML={{ __html: post.body }} />
           </article>
           <aside className='post-footer'>
             <ul>
@@ -89,5 +90,7 @@ export default class MarkdownWrapper extends Component {
 }
 
 MarkdownWrapper.propTypes = {
-  route: PropTypes.object
+  route: PropTypes.object,
 };
+
+export default MarkdownWrapper;

@@ -62,6 +62,16 @@ const tagList = {
     color: '#ff89b4',
     icon: 'timer',
   },
+  styledcomponents: {
+    label: 'Styled Components',
+    color: '#f92672',
+    icon: 'styledComponents',
+  },
+  redux: {
+    label: 'Redux',
+    color: '#f92672',
+    icon: 'redux',
+  },
 };
 
 const Tags = ({ tags }) => (

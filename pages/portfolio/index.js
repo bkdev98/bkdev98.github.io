@@ -6,7 +6,7 @@ import Tags from '../../src/components/Tags';
 
 const projects = [
   {
-    name: 'khanhquoc.press',
+    name: 'Khanh Quoc Press',
     tags: ['inprogress', 'gatsby', 'react', 'node'],
     imageUrl: './images/project1.jpg',
     description: 'A website (this website) to aggregate all my stuff',
@@ -16,7 +16,7 @@ const projects = [
     ],
   }, {
     name: 'Ipeedy',
-    tags: ['inprogress', 'reactnative', 'graphql', 'node'],
+    tags: ['reactnative', 'graphql', 'redux', 'node'],
     imageUrl: './images/project2.jpg',
     description: 'Market for the people, by the people',
     actions: [
@@ -25,8 +25,16 @@ const projects = [
       { message: 'See the code', url: 'https://github.com/ipeedy/ipeedy-mobile' },
     ],
   }, {
+    name: 'Innoteq CI',
+    tags: ['inprogress', 'electron', 'react', 'node'],
+    imageUrl: './images/project5.jpg',
+    description: 'A continuous integration, delivery and deployment tool for internal use at Innoteq company.',
+    actions: [
+      { message: 'Available soon', url: '#' },
+    ],
+  }, {
     name: 'React Native Boilerplate',
-    tags: ['reactnative'],
+    tags: ['reactnative', 'redux', 'styledcomponents'],
     imageUrl: './images/project3.jpg',
     description: 'A React Native boilerplate with Expo, Redux, React Navigation, Styled Components and some 💕 included.',
     actions: [
@@ -34,10 +42,11 @@ const projects = [
     ],
   }, {
     name: 'SU...LE*',
-    tags: ['inprogress', 'electron', 'react'],
+    tags: ['inprogress', 'electron', 'react', 'redux', 'graphql'],
     imageUrl: './images/project4.jpg',
     description: 'Enterprise solution for chain store management.',
     actions: [
+      { message: 'Another picture from Instagram', url: 'https://www.instagram.com/p/BjLIf5-Hox6/' },
       { message: 'Available soon', url: '#' },
     ],
   },

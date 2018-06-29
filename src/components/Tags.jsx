@@ -42,6 +42,26 @@ const tagList = {
     color: '#f92672',
     icon: 'node',
   },
+  reactnative: {
+    label: 'React Native',
+    color: '#f92672',
+    icon: 'react',
+  },
+  graphql: {
+    label: 'GraphQL',
+    color: '#f92672',
+    icon: 'graphql',
+  },
+  electron: {
+    label: 'Electron',
+    color: '#f92672',
+    icon: 'electron',
+  },
+  inprogress: {
+    label: 'In Progress',
+    color: '#ff89b4',
+    icon: 'timer',
+  },
 };
 
 const Tags = ({ tags }) => (
@@ -50,7 +70,7 @@ const Tags = ({ tags }) => (
       display: 'flex',
       flexWrap: 'wrap',
       alignItems: 'center',
-      marginTop: 10,
+      marginTop: 5,
     }}
   >
     {tags.map(tag => !tagList[tag] ? null : (
@@ -58,7 +78,7 @@ const Tags = ({ tags }) => (
         key={tagList[tag].label}
         style={{
           border: `1px solid ${tagList[tag].color}`,
-          borderRadius: 3,
+          borderRadius: 4,
           color: tagList[tag].color,
           fontSize: 16,
           paddingTop: 3,
@@ -76,11 +96,11 @@ const Tags = ({ tags }) => (
           }}
         >
           {typeof tagList[tag].icon === 'string'
-            ? <Icon type={tagList[tag].icon} fill='#f92672' size={14} />
+            ? <Icon type={tagList[tag].icon} fill={tagList[tag].color} size={14} />
             : tagList[tag].icon()
           }
 
-          <div style={{ marginLeft: 3 }}>
+          <div style={{ marginLeft: 3, fontSize: 14 }}>
             {tagList[tag].label}
           </div>
         </div>

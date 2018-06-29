@@ -5,6 +5,7 @@ description: >-
   Tôi rảo bước trong những suy nghĩ vỡ vẩn. Sài Gòn một buổi chiều có nắng, hơi
   oi và đông đúc những dòng người qua lại.
 thumbnail: sunset.jpg
+tags: ["emotions", "life"]
 ---
 !["Sunset at Quang Trung Software City."](./sunset.jpg){.full-width}
 

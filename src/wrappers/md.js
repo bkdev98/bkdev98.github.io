@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import { config } from 'config'; // eslint-disable-line
 import { TweetThis, FacebookShare } from '../components/Social';
 import ReadNext from '../components/ReadNext';
+import Tags from '../components/Tags';
 import Bio from '../components/Bio';
 import { isBlogPost, getBlogPosts, getNextPosts, getPostsFromPaths } from '../utils/blog-helpers';
 import avatar from '../../images/avatar.jpg';
@@ -42,6 +43,7 @@ export default class MarkdownWrapper extends Component {
               <h2>{post.title}</h2>
               <div>
                 <time>{moment(post.date, 'MM/DD/YYYY').format('MMMM D, YYYY')}</time> &middot; {post.words} words &middot; {post.readTime}
+                <Tags tags={post.tags} />
               </div>
             </header>
             <div className='post-content' dangerouslySetInnerHTML={{ __html: post.body }} />

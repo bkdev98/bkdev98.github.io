@@ -1,9 +1,9 @@
 import React, { PropTypes } from 'react';
-import { Link } from 'react-router';
+import { Link, withRouter } from 'react-router';
 import { prefixLink } from 'gatsby-helpers'; // eslint-disable-line
 import { config } from 'config'; // eslint-disable-line
 
-export default function Masthead() {
+function Masthead() {
   return (
     <header className='masthead'>
       <h1>
@@ -14,25 +14,25 @@ export default function Masthead() {
       <nav>
         <ul>
           <li>
-            <Link to={prefixLink('/about/')}>
+            <Link activeClassName='active' to={prefixLink('/about/')}>
               About
             </Link>
           </li>
           &middot;
           <li>
-            <Link to={prefixLink('/blog/')}>
+            <Link activeClassName='active' to={prefixLink('/blog/')}>
               Blog
             </Link>
           </li>
           &middot;
           <li>
-            <Link to={prefixLink('/portfolio/')}>
+            <Link activeClassName='active' to={prefixLink('/portfolio/')}>
               Portfolio
             </Link>
           </li>
           &middot;
           <li>
-            <Link to={prefixLink('/hire/')}>
+            <Link activeClassName='active' to={prefixLink('/hire/')}>
               Hire Me
             </Link>
           </li>
@@ -41,6 +41,8 @@ export default function Masthead() {
     </header>
   );
 }
+
+export default withRouter(Masthead);
 
 Masthead.propTypes = {
   className: PropTypes.string

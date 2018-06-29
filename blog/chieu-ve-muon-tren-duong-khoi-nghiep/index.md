@@ -6,6 +6,7 @@ description: >-
   Công Nghệ Thông Tin, ai mà không có cái tham vọng biến mấy dòng code thành
   những giá trị vượt trội...
 thumbnail: waccoffee.jpg
+tags: ["startup", "general"]
 ---
 ![](./waccoffee.jpg){.full-width}
 

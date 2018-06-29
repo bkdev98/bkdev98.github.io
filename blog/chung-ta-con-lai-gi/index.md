@@ -3,6 +3,7 @@ title: Chúng ta còn lại gì
 date: 06/20/2018
 description: Mọi thứ rồi sẽ thay đổi, điều đáng buồn là vì chúng ta cứ tưởng chúng ta vẫn giống ngày hôm qua, chúng ta của ngày mai vẫn giống của hôm nay nhưng 3 năm sau nhìn lại, mọi thứ đã bỏ ta mà đi mất rồi.
 thumbnail: hero.jpg
+tags: ["emotions"]
 ---
 
 ![](./hero.jpg){.full-width}

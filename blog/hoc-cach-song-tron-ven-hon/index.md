@@ -6,6 +6,7 @@ description: >-
   194 lần. Anh ta tên Robert Black, vẫn tiếp tục viết cho project có tên phim,
   với dòng giới thiệu “Watching a movie over and over again, a movie about
   living a day over and over again, because that is what life is all about”...
+tags: ["movies", "life"]
 ---
 
 > Có những bộ phim luôn hay hơn sau mỗi lần xem. Tôi có một vài bộ phim không bao giờ xóa. Và thật lạ lùng bởi ma thuật này. Những cảnh phim vẫn thế, âm nhạc vẫn thế, diễn viên vẫn thế, không có gì thay đổi, nhưng ta lại tìm thấy những điều mới, cảm xúc mới, nhận ra những điều ta chưa thấy trước đây và thấm thía hơn những gì ta đã biết.

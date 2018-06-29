@@ -421,6 +421,10 @@ img::selection {
     font-family: 'Playfair Display';
   }
 
+  & .active {
+      color: #f92672;
+  }
+
   & nav,
   & ul,
   & li {

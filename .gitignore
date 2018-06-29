@@ -1,5 +1,7 @@
+node_modules/
 public
+.gatsby-context.js
 .DS_Store
-node_modules
-*.log*
-*.env
+.intermediate-representation/
+.cache/
+yarn.lock

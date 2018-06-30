@@ -58,16 +58,10 @@ export default class QuantfiedSelf extends Component {
   }
 
   init = async () => {
-    const tracks = await axios.get(`${API_URL}/tracks`);
-    if (tracks.status === 200) {
-      this.setState({ tracks: tracks.data });
-      const activities = await axios.get(`${API_URL}/activities`);
-      if (activities.status === 200) {
-        this.setState({ categories: activities.data });
-        if (this.state.tracks) {
-          this.setState({ loading: false });
-        }
-      }
+    const result = await axios.get(`${API_URL}`);
+    if (result.status === 200) {
+      const { tracks, categories } = result.data;
+      this.setState({ tracks, categories, loading: false });
     }
   }
 

@@ -34,6 +34,15 @@ const projects = [
       { message: 'Available soon', url: '#' },
     ],
   }, {
+    name: 'QTSC OMS',
+    tags: ['reactnative', 'redux', 'node'],
+    imageUrl: './images/project6.jpg',
+    description: 'Operations Management Suite Mobile for Quang Trung Software City.',
+    actions: [
+      { message: 'Read the blog post how it was built', url: '#' },
+      { message: 'Google Play Store', url: 'https://play.google.com/store/apps/details?id=com.hisoft.qtscoms' },
+    ],
+  }, {
     name: 'React Native Boilerplate',
     tags: ['reactnative', 'redux', 'styledcomponents'],
     imageUrl: './images/project3.jpg',
@@ -49,6 +58,14 @@ const projects = [
     actions: [
       { message: 'Another picture from Instagram', url: 'https://www.instagram.com/p/BjLIf5-Hox6/' },
       { message: 'Available soon', url: '#' },
+    ],
+  }, {
+    name: 'React Native Animations Collection',
+    tags: ['reactnative'],
+    imageUrl: './images/project7.jpg',
+    description: 'A beautiful collection of real-world React Native animations with code 🐬',
+    actions: [
+      { message: 'See the code', url: 'https://github.com/bkdev98/react-native-animation-examples' },
     ],
   },
 ];

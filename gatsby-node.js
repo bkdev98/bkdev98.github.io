@@ -1,16 +1,7 @@
-/* eslint-disable */
-import generateFeed from './src/scripts/feed.js';
+/**
+ * Implement Gatsby's Node APIs in this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/node-apis/
+ */
 
-export function modifyWebpackConfig(config, env) {
-  if (env === 'build-javascript') {
-    config.merge({
-      devtool: 'hidden-source-map'
-    });
-  }
-  return config;
-}
-
-export function postBuild(pages, callback) {
-  generateFeed(pages);
-  callback();
-}
+ // You can delete this file if you're not using it

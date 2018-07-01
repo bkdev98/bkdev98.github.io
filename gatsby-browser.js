@@ -1,14 +1,7 @@
-/* eslint-disable */
+/**
+ * Implement Gatsby's Browser APIs in this file.
+ *
+ * See: https://www.gatsbyjs.org/docs/browser-apis/
+ */
 
-export function onRouteUpdate(location) {
-  if (location.hash) {
-    setTimeout(() => {
-      document.querySelector(`${location.hash}`).scrollIntoView();
-    }, 0);
-  }
-  if (typeof ga !== 'undefined') {
-    ga('send', 'pageview', {
-      page: location.pathname
-    });
-  }
-};
+ // You can delete this file if you're not using it

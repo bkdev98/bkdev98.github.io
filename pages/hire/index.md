@@ -7,7 +7,8 @@ I work with these technologies:
 * Node.js
 * Babel & ES6/7
 * React, React Router & Redux
-* React Native for building cross-platform mobile app.
+* React Native
+* Electron
 * GraphQL, Relay, Apollo & DataLoader
 * Webpack, Browserify, Rollup & JSPM
 * Express & Koa

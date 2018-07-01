@@ -1,5 +1,6 @@
 import { config } from 'config'; // eslint-disable-line
 import React from 'react';
+import { Link } from 'react-router';
 import Helmet from 'react-helmet';
 
 import Tags from '../../src/components/Tags';
@@ -11,7 +12,7 @@ const projects = [
     imageUrl: './images/project1.jpg',
     description: 'A website (this website) to aggregate all my stuff',
     actions: [
-      { message: 'Explore project\'s information', url: 'https://khanhquoc.press/about' },
+      { message: 'Explore project\'s information', url: 'https://khanhquoc.press/about/#about-khanh-quoc-press' },
       { message: 'See the code', url: 'https://github.com/bkdev98/bkdev98.github.io' },
     ],
   }, {
@@ -63,23 +64,21 @@ const Project = ({ project }) => (
       <div style={{ flex: '1 0 350px' }}>
         <p style={{ paddingBottom: 0 }}>{project.description}</p>
         {project.actions && project.actions.map(action => (
-          <a
-            key={action.url}
-            className='action'
-            href={action.url}
-            target='_blank'
-            rel='noopener noreferrer'
-            style={{
-              display: 'table',
-              border: '1.5px solid #57c7ff',
-              textAlign: 'center',
-              padding: '3px 6px',
-              borderRadius: 4,
-              marginTop: 7,
-            }}
-          >
-            {action.message}
-          </a>
+          <div key={action.url}>
+            {!action.url.includes('khanhquoc.press')
+            ? <a
+              href={action.url}
+              target={action.url.includes('#') ? '_self' : '_blank'}
+              rel='noopener noreferrer'
+              style={{ marginTop: 7 }}
+            >
+              {action.message}
+            </a>
+            : <Link style={{ marginTop: 7 }} to={action.url}>
+              {action.message}
+            </Link>}
+            <br />
+          </div>
         ))}
       </div>
     </div>

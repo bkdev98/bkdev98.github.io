@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khanhquoc.press/</id>
     <title>Khanh Quoc Press</title>
-    <updated>2018-07-01T14:18:44Z</updated>
+    <updated>2018-07-02T06:36:13Z</updated>
     <author>
         <name>Quoc Khanh</name>
         <email>khanhbq@innoteq.vn</email>
@@ -265,6 +265,28 @@ Nh&#x1B0;ng c&#x169;ng ch&#x1EB3;ng sao, ch&#x1EC9; c&#x1EA7;n c&#xF2;n s&#x1EF1
 <figure><img src="https://khanhquoc.press/blog/thuc-hien-du-an-full-stack-dau-tien/https://i.imgur.com/m9GHc7M.jpg" alt="Goodbye Yello Brick Road" class="full-width"><figcaption>Goodbye Yello Brick Road</figcaption></figure>
 <p>M&#x1EDB;i &#x111;&#xF3; &#x111;&#xE3; hai gi&#x1EDD; s&#xE1;ng, m&#xE0; b&#x1EA3;n <a href="https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE">Goodbye Yellow Brick Road</a> v&#x1EAB;n &#x111;ang th&#x1ED5;n th&#x1EE9;c, c&#xF2;n t&#xF4;i v&#x1EAB;n m&#xEA; say trong &#x111;&#x1ED1;ng code ng&#x1ED5;n ngang.
 L&#x1EA1;i m&#x1ED9;t ng&#xE0;y n&#x1EEF;a tr&#xF4;i qua, m&#x1ED9;t ng&#xE0;y tr&#x1EDD;i s&#x1EBD; nhi&#x1EC1;u n&#x1EAF;ng.</p>
+]]></content>
+        <author>
+            <name>Quoc Khanh</name>
+            <email>khanhbq@innoteq.vn</email>
+            <uri>https://khanhquoc.press/about</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Về thời gian]]></title>
+        <id>https://khanhquoc.press/blog/ve-thoi-gian/</id>
+        <link href="https://khanhquoc.press/blog/ve-thoi-gian/">
+        </link>
+        <updated>2018-07-01T17:00:00Z</updated>
+        <summary type="html"><![CDATA[Mấy hôm nay sửa soạn blog mới, lục lọi lại những tâm tư cũ, phần nhiều đã thất lạc, nhưng những dòng cảm xúc mà tôi từng trân trọng nhất thì vẫn còn vẹn nguyên đó.]]></summary>
+        <content type="html"><![CDATA[<figure><img src="https://khanhquoc.press/blog/ve-thoi-gian/about-time.jpg" alt="" class="full-width"></figure>
+<p>M&#x1EA5;y h&#xF4;m nay s&#x1EED;a so&#x1EA1;n blog m&#x1EDB;i, l&#x1EE5;c l&#x1ECD;i l&#x1EA1;i nh&#x1EEF;ng t&#xE2;m t&#x1B0; c&#x169;, ph&#x1EA7;n nhi&#x1EC1;u &#x111;&#xE3; th&#x1EA5;t l&#x1EA1;c, nh&#x1B0;ng nh&#x1EEF;ng d&#xF2;ng c&#x1EA3;m x&#xFA;c m&#xE0; t&#xF4;i t&#x1EEB;ng tr&#xE2;n tr&#x1ECD;ng nh&#x1EA5;t th&#xEC; v&#x1EAB;n c&#xF2;n v&#x1EB9;n nguy&#xEA;n &#x111;&#xF3;. R&#x1ED3;i l&#x1ECD;c l&#x1EA1;i xem c&#xE1;i n&#xE0;o n&#xEA;n &#x111;&#x103;ng, c&#xE1;i n&#xE0;o n&#xEA;n gi&#x1EEF; cho ri&#xEA;ng m&#xEC;nh. Nh&#x1EEF;ng n&#x103;m th&#xE1;ng th&#x1EDD;i h&#x1ECD;c sinh, r&#x1ED3;i nh&#x1EEF;ng ng&#xE0;y &#x111;&#x1EA7;u &#x1EDF; S&#xE0;i G&#xF2;n, l&#xE0;m nh&#x1EEF;ng c&#xF4;ng vi&#x1EC7;c m&#x1EDB;i, g&#x1EB7;p nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i b&#x1EA1;n m&#x1EDB;i,&#x2026;</p>
+<p>L&#xE0; khi t&#xF4;i nh&#x1EAD;n ra trong tr&#xED; nh&#x1EDB; c&#x1EE7;a m&#xEC;nh, t&#xF4;i v&#x1EAB;n lu&#xF4;n th&#xED;ch nh&#x1EEF;ng cu&#x1ED9;c h&#x1EB9;n b&#x1EA5;t ch&#x1EE3;t, nh&#x1EEF;ng tin nh&#x1EAF;n r&#x1EE7; nhau &#x111;i ch&#x1A1;i, g&#x1EB7;p nhau m&#x1ED9;t ch&#xFA;t, u&#x1ED1;ng v&#xE0;i lon bia, n&#xF3;i chuy&#x1EC7;n v&#xE0;i c&#xE2;u.</p>
+<p>Nhi&#x1EC1;u l&#xFA;c ch&#x1EE3;t th&#x1EA5;y ch&#xFA;ng t&#xF4;i c&#x1EA7;n g&#x1EB7;p nhau ch&#x1EB3;ng v&#xEC; &#x111;i&#x1EC1;u g&#xEC; c&#x1EA3;, c&#x169;ng ch&#x1EB3;ng c&#x1EA7;n m&#x1ED9;t k&#x1EBF; ho&#x1EA1;ch, quan tr&#x1ECD;ng l&#xE0; g&#x1EB7;p &#x111;&#x1B0;&#x1EE3;c nhau c&#xE1;i &#x111;&#xE3;.</p>
+<p>T&#xF4;i v&#xE0; b&#x1EA1;n than th&#x1EDF; v&#x1EDB;i nhau tr&#xEA;n facebook, hai &#x111;&#x1EE9;a n&#xF3;i chuy&#x1EC7;n d&#xE0;i d&#xF2;ng, v&#x1EC1; nh&#x1EEF;ng c&#xE2;u chuy&#x1EC7;n m&#x1EDB;i, v&#x1EC1; th&#x1EBF; gi&#x1EDB;i quanh ch&#xFA;ng t&#xF4;i, v&#x1EC1; c&#xF4;ng vi&#x1EC7;c, h&#x1ECD;c t&#x1EAD;p, v&#x1EC1; b&#x1EA1;n b&#xE8;, v&#x1EC1; t&#x1B0;&#x1A1;ng lai v&#xE0; nh&#x1EEF;ng &#x111;i&#x1EC1;u xa x&#xF4;i, nh&#x1B0;ng l&#x1EA1;i ch&#x1EB3;ng h&#x1EB9;n &#x111;&#x1B0;&#x1EE3;c m&#x1ED9;t l&#xFA;c ng&#x1ED3;i c&#xF9;ng nhau m&#xE0; n&#xF3;i v&#x1EC1; nh&#x1EEF;ng &#x111;i&#x1EC1;u &#x1EA5;y.</p>
+<p>T&#xF4;i c&#xF9;ng m&#x1ED9;t ng&#x1B0;&#x1EDD;i b&#x1EA1;n &#x111;i ch&#x1A1;i, nh&#x1EEF;ng l&#xFA;c &#x111;&#xE3; l&#xE2;u l&#x1EAF;m r&#x1ED3;i m&#x1EDB;i &#x1EDF; b&#xEA;n c&#x1EA1;nh nhau, n&#xF3;i nh&#x1EEF;ng th&#x1EE9; linh tinh, l&#xE0;m nh&#x1EEF;ng &#x111;i&#x1EC1;u b&#xEC;nh th&#x1B0;&#x1EDD;ng, r&#x1ED3;i l&#x1EA1;i c&#xF9;ng nhau trong im l&#x1EB7;ng, s&#x1EBD; c&#xF2;n bao l&#xE2;u n&#x1EEF;a c&#x1EA3; hai l&#x1EA1;i &#x111;&#x1B0;&#x1EE3;c c&#xF9;ng nhau, &#x1EDF; m&#x1ED9;t n&#x1A1;i xa l&#x1EA1; nh&#x1B0; th&#x1EBF; n&#xE0;y, li&#x1EC7;u c&#xF2;n bao nhi&#xEA;u l&#xE2;u n&#x1EEF;a. Li&#x1EC7;u ch&#xFA;ng t&#xF4;i c&#xF3; c&#xF2;n &#x111;&#x1EE7; g&#x1EA7;n g&#x169;i &#x111;&#x1EC3; ngh&#x129; r&#x1EB1;ng &#x201C;quan tr&#x1ECD;ng l&#xE0; g&#x1EB7;p &#x111;&#x1B0;&#x1EE3;c nhau&#x201D;.</p>
+<p>C&#xF3; nh&#x1EEF;ng n&#x1ED7;i s&#x1EE3; h&#xE3;i trong im l&#x1EB7;ng, uh th&#xEC; gi&#x1ED1;ng nh&#x1B0; t&#x1EA5;t c&#x1EA3; &#x111;i&#x1EC1;u bi&#x1EBF;t r&#x1EB1;ng n&#xF3; s&#x1EBD; x&#x1EA3;y ra, v&#xE0; m&#x1ED9;t l&#xFA;c n&#xE0;o &#x111;&#xF3; ch&#xFA;ng t&#xF4;i s&#x1EBD; ph&#x1EA3;i quen d&#x1EA7;n v&#x1EDB;i n&#xF3;, ho&#x1EB7;c m&#x1ED9;t l&#xFA;c n&#xE0;o &#x111;&#xF3; ch&#xFA;ng t&#xF4;i nh&#x1EAD;n ra &#x111;&#xE3; tr&#xF3;t quen d&#x1EA7;n v&#x1EDB;i n&#xF3;.</p>
+<p>N&#x1ED7;i s&#x1EE3; h&#xE3;i c&#x1EE7;a nh&#x1EEF;ng con ng&#x1B0;&#x1EDD;i &#x111;ang tr&#x1B0;&#x1EDF;ng th&#xE0;nh, l&#xE0; s&#x1EE3; m&#x1ECD;i th&#x1EE9; s&#x1EBD; thay &#x111;&#x1ED5;i.</p>
 ]]></content>
         <author>
             <name>Quoc Khanh</name>

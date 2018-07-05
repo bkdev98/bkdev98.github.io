@@ -7,6 +7,7 @@ import { TweetThis, FacebookShare } from '../components/Social';
 import ReadNext from '../components/ReadNext';
 import Tags from '../components/Tags';
 import Bio from '../components/Bio';
+import AudioPlayer from '../components/AudioPlayer';
 import { isBlogPost, getBlogPosts, getNextPosts, getPostsFromPaths } from '../utils/blog-helpers';
 import avatar from '../../images/avatar.jpg';
 
@@ -47,6 +48,7 @@ class MarkdownWrapper extends Component {
                 <Tags tags={post.tags} />
               </div>
             </header>
+            {post.audio && <AudioPlayer autoPlay src={post.audio} />}
             <div className='post-content' ref='markdown' dangerouslySetInnerHTML={{ __html: post.body }} />
           </article>
           <aside className='post-footer'>

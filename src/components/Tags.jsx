@@ -72,6 +72,11 @@ const tagList = {
     color: '#f92672',
     icon: 'redux',
   },
+  javascript: {
+    label: 'JavaScript',
+    color: '#f92672',
+    icon: 'javascript',
+  },
 };
 
 const Tags = ({ tags }) => (

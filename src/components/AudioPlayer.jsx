@@ -35,6 +35,7 @@ class AudioPlayer extends Component {
             ref={c => this.player = c}
             {...this.props}
             useAudioObject
+            crossOrigin="anonymous"
           />
           <div className='media-controls'>
             <PlayPause className='media-control media-control--play-pause' />

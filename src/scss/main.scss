@@ -1,5 +1,13 @@
 @import "./range-mixins.scss";
 
+$breakpoint-mobile: 640px;
+
+@media (max-width: $breakpoint-mobile) {
+  .media-control--mute-unmute, .media-control--volume {
+    display: none !important;
+  }
+}
+
 .media-player-wrapper {
   display: flex;
   flex-direction: column;
@@ -45,7 +53,7 @@
 .media-controls {
   display: flex;
   align-items: center;
-  padding: 12px;
+  margin-bottom: 10px;
   background-color: #424559;
   color: #fff;
 

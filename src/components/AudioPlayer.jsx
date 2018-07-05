@@ -6,7 +6,7 @@ import '../scss/main.scss';
 
 const { CurrentTime, SeekBar, Duration, Volume } = controls;
 
-const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+const audioContext = new (window.AudioContext || window.webkitAudioContext)(); // eslint-disable-line
 const panner = audioContext.createPanner();
 
 panner.setPosition(0, 0, 1);
@@ -32,10 +32,10 @@ class AudioPlayer extends Component {
       <Media>
         <div>
           <Player
-            ref={c => this.player = c}
+            ref={c => this.player = c} // eslint-disable-line
             {...this.props}
             useAudioObject
-            crossOrigin="anonymous"
+            crossOrigin='anonymous'
           />
           <div className='media-controls'>
             <PlayPause className='media-control media-control--play-pause' />

@@ -48,7 +48,7 @@ class MarkdownWrapper extends Component {
                 <Tags tags={post.tags} />
               </div>
             </header>
-            {post.audio && <AudioPlayer autoPlay src={post.audio} />}
+            {post.audio && <AudioPlayer autoPlay src={post.audio} />}
             <div className='post-content' ref='markdown' dangerouslySetInnerHTML={{ __html: post.body }} />
           </article>
           <aside className='post-footer'>

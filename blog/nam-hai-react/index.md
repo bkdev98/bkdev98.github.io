@@ -6,7 +6,7 @@ thumbnail: thumb.jpeg
 tags: ["react", "redux", "general"]
 ---
 
-Bắt đầu một công nghệ mới có thể khá rắc rối. Bạn sẽ tìm thấy mình trong một đại dương mênh mông các hướng dẫn, bài viết, cùng hàng triệu những ý kiến cá nhân. Và ai nấy cũng đặt tiêu đề rằng họ là đã tìm thấy “cách đúng đắn nhất“.
+Bắt đầu một công nghệ mới có thể khá rắc rối. Bạn sẽ tìm thấy mình trong một đại dương mênh mông các hướng dẫn, bài viết, cùng hàng triệu những ý kiến cá nhân. Và ai nấy cũng đặt tiêu đề rằng họ đã tìm thấy “cách đúng đắn nhất“.
 
 Trước khi lặn xuống đại đương ấy, chúng ta phải hiểu các khái niệm cơ bản của công nghệ. Sau đó, ta cần phát triển một tư duy dựa trên công nghệ đó. Nếu bạn bắt đầu học React, điều đầu tiên cần làm là hiểu được những suy nghĩ trong React. Chỉ như vậy, sau này bạn mới có thể kết hợp những suy nghĩ khác nhau thành một.
 

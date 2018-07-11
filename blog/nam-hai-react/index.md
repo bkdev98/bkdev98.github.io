@@ -2,7 +2,7 @@
 title: Năm hai React
 date: 07/11/2018
 description: Bạn có thích những gì mình làm không?
-thumb: thumb.jpg
+thumbnail: thumb.jpeg
 tags: ["react", "redux", "general"]
 ---
 

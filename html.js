@@ -34,6 +34,7 @@ export default function HTML(props) {
         <meta name='twitter:card' content='summary_large_image' />
         <meta name='twitter:creator' content='@bkdev98' />
 
+        <meta property='fb:app_id' content='1805932539498935' />
         <meta property='og:url' content={`https://khanhquoc.press${path}`} />
         <meta property='og:site_name' content='Khanh Quoc Press' />
 

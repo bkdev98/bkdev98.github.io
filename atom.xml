@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khanhquoc.press/</id>
     <title>Khanh Quoc Press</title>
-    <updated>2018-07-11T07:28:39Z</updated>
+    <updated>2018-07-11T07:32:56Z</updated>
     <author>
         <name>Quoc Khanh</name>
         <email>khanhbq@innoteq.vn</email>
@@ -238,9 +238,7 @@ React c&#xF3; r&#x1EA5;t nhi&#x1EC1;u ch&#x1EE7; &#x111;&#x1EC1; hay cho b&#x1EA
 <li>nhi&#x1EC1;u th&#x1EE9;c kh&#xE1;c n&#x1EEF;a&#x2026;</li>
 </ul>
 <p>Kh&#xE1;m ph&#xE1; nh&#x1EEF;ng &#x111;i&#x1EC1;u n&#xE0;y, hi&#x1EC3;u &#x111;&#x1B0;&#x1EE3;c t&#x1EA1;i sao v&#xE0; &#x1EDF; &#x111;&#xE2;u ch&#xFA;ng &#x111;&#x1B0;&#x1EE3;c d&#xF9;ng, b&#x1EA1;n s&#x1EBD; c&#x1EA3;m th&#x1EA5;y tho&#x1EA3;i m&#xE1;i h&#x1A1;n r&#x1EA5;t nhi&#x1EC1;u khi l&#xE0;m vi&#x1EC7;c v&#x1EDB;i React.</p>
-<pre><code>// ma thu&#x1EAD;t g&#xEC; &#x111;&#xE2;y?
-// s&#x1EBD; l&#xE0; kh&#xF4;ng kh&#xF3; n&#x1EBF;u b&#x1EA1;n ch&#x1ECB;u th&#x1EED;
-render() {
+<pre><code>render() {
   const children = React.Children.map(this.props.children,
    (child, index) =&gt; {
       return React.cloneElement(child, {
@@ -250,9 +248,9 @@ render() {
  return children;
 }
 </code></pre>
-<p>Ngo&#xE0;i ra, &#x111;&#x1EEB;ng ng&#x1EA1;i th&#x1EED; m&#x1ED9;t &#x111;i&#x1EC1;u g&#xEC; &#x111;&#xF3; m&#x1EDB;i v&#xE0;o c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n, t&#x1EA5;t nhi&#xEA;n v&#x1EDB;i gi&#x1EDB;i h&#x1EA1;n nh&#x1EA5;t &#x111;&#x1ECB;nh. &#x110;&#x1EEB;ng th&#x1EED; nghi&#x1EC7;m nh&#x1EEF;ng &#x111;i&#x1EC1;u tuy&#x1EC7;t v&#x1EDD;i n&#xE0;y ch&#x1EC9; trong c&#xE1;c d&#x1EF1; &#xE1;n c&#xE1; nh&#xE2;n.
-M&#x1ECD;i ng&#x1B0;&#x1EDD;i s&#x1EBD; &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i v&#xE0; &#x111;i&#x1EC1;u &#x111;&#xF3; l&#xE0; chuy&#x1EC7;n b&#xEC;nh th&#x1B0;&#x1EDD;ng. Nhi&#x1EC7;m v&#x1EE5; c&#x1EE7;a b&#x1EA1;n l&#xE0; b&#x1EA3;o v&#x1EC7; c&#xF4;ng vi&#x1EC7;c v&#xE0; quy&#x1EBF;t &#x111;&#x1ECB;nh c&#x1EE7;a m&#xEC;nh v&#x1EDB;i nh&#x1EEF;ng tranh lu&#x1EAD;n m&#x1EA1;nh m&#x1EBD; nh&#x1EA5;t.
-M&#x1EE5;c &#x111;&#xED;ch c&#x1EE7;a b&#x1EA1;n l&#xE0; gi&#x1EA3;i quy&#x1EBF;t v&#x1EA5;n &#x111;&#x1EC1; hi&#x1EC7;n t&#x1EA1;i, gi&#xFA;p vi&#x1EC7;c ph&#xE1;t tri&#x1EC3;n d&#x1EC5; d&#xE0;ng h&#x1A1;n, ho&#x1EB7;c c&#xF3; th&#x1EC3; ch&#x1EC9; l&#xE0; ng&#x1ED3;i clean m&#x1EA5;y d&#xF2;ng code. Ngay c&#x1EA3; khi &#x111;&#x1EC1; xu&#x1EA5;t c&#x1EE7;a b&#x1EA1;n b&#x1ECB; t&#x1EEB; ch&#x1ED1;i, b&#x1EA1;n s&#x1EBD; bi&#x1EBF;t &#x111;&#x1B0;&#x1EE3;c nhi&#x1EC1;u &#x111;i&#x1EC1;u h&#x1A1;n l&#xE0; ng&#x1ED3;i im l&#x1EB7;ng.</p>
+<p>Ngo&#xE0;i ra, &#x111;&#x1EEB;ng ng&#x1EA1;i th&#x1EED; m&#x1ED9;t &#x111;i&#x1EC1;u g&#xEC; &#x111;&#xF3; m&#x1EDB;i v&#xE0;o c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n, t&#x1EA5;t nhi&#xEA;n v&#x1EDB;i gi&#x1EDB;i h&#x1EA1;n nh&#x1EA5;t &#x111;&#x1ECB;nh. &#x110;&#x1EEB;ng th&#x1EED; nghi&#x1EC7;m nh&#x1EEF;ng &#x111;i&#x1EC1;u tuy&#x1EC7;t v&#x1EDD;i n&#xE0;y ch&#x1EC9; trong c&#xE1;c d&#x1EF1; &#xE1;n c&#xE1; nh&#xE2;n.</p>
+<p>M&#x1ECD;i ng&#x1B0;&#x1EDD;i s&#x1EBD; &#x111;&#x1EB7;t c&#xE2;u h&#x1ECF;i v&#xE0; &#x111;i&#x1EC1;u &#x111;&#xF3; l&#xE0; chuy&#x1EC7;n b&#xEC;nh th&#x1B0;&#x1EDD;ng. Nhi&#x1EC7;m v&#x1EE5; c&#x1EE7;a b&#x1EA1;n l&#xE0; b&#x1EA3;o v&#x1EC7; c&#xF4;ng vi&#x1EC7;c v&#xE0; quy&#x1EBF;t &#x111;&#x1ECB;nh c&#x1EE7;a m&#xEC;nh v&#x1EDB;i nh&#x1EEF;ng tranh lu&#x1EAD;n m&#x1EA1;nh m&#x1EBD; nh&#x1EA5;t.</p>
+<p>M&#x1EE5;c &#x111;&#xED;ch c&#x1EE7;a b&#x1EA1;n l&#xE0; gi&#x1EA3;i quy&#x1EBF;t v&#x1EA5;n &#x111;&#x1EC1; hi&#x1EC7;n t&#x1EA1;i, gi&#xFA;p vi&#x1EC7;c ph&#xE1;t tri&#x1EC3;n d&#x1EC5; d&#xE0;ng h&#x1A1;n, ho&#x1EB7;c c&#xF3; th&#x1EC3; ch&#x1EC9; l&#xE0; ng&#x1ED3;i clean m&#x1EA5;y d&#xF2;ng code. Ngay c&#x1EA3; khi &#x111;&#x1EC1; xu&#x1EA5;t c&#x1EE7;a b&#x1EA1;n b&#x1ECB; t&#x1EEB; ch&#x1ED1;i, b&#x1EA1;n s&#x1EBD; bi&#x1EBF;t &#x111;&#x1B0;&#x1EE3;c nhi&#x1EC1;u &#x111;i&#x1EC1;u h&#x1A1;n l&#xE0; ng&#x1ED3;i im l&#x1EB7;ng.</p>
 <h3>&#x110;&#x1EEB;ng l&#xE0;m m&#x1ECD;i th&#x1EE9; tr&#x1EDF; n&#xEA;n ph&#x1EE9;c t&#x1EA1;p</h3>
 <p>Trong cu&#x1ED9;c s&#x1ED1;ng c&#x169;ng nh&#x1B0; &#x1EDF; kh&#x1EAF;p m&#x1ECD;i n&#x1A1;i, ch&#xFA;ng ta c&#x1EA7;n c&#xF3; s&#x1EF1; c&#xE2;n b&#x1EB1;ng. N&#xF3;i cho &#x111;&#x1A1;n gi&#x1EA3;n, ch&#xFA;ng ta n&#xEA;n tr&#xE1;nh vi&#x1EC7;c qu&#xE1; l&#x1EA1;m d&#x1EE5;ng k&#x1EF9; thu&#x1EAD;t, b&#x1EDF;i s&#x1EF1; th&#x1EF1;c t&#x1EBF; l&#xE0; r&#x1EA5;t quan tr&#x1ECD;ng. Vi&#x1EBF;t code cho d&#x1EC5; hi&#x1EC3;u, mi&#x1EC5;n ho&#xE0;n th&#xE0;nh &#x111;&#x1B0;&#x1EE3;c m&#x1EE5;c &#x111;&#xED;ch c&#x1EE7;a n&#xF3;.</p>
 <p>N&#x1EBF;u <a href="https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367">b&#x1EA1;n kh&#xF4;ng c&#x1EA7;n Redux</a>, nh&#x1B0;ng l&#x1EA1;i mu&#x1ED1;n s&#x1EED; d&#x1EE5;ng n&#xF3; v&#xEC; ai c&#x169;ng d&#xF9;ng m&#xE0; kh&#xF4;ng bi&#x1EBF;t &#x111;&#xE2;u l&#xE0; m&#x1EE5;c &#x111;&#xED;ch th&#x1EF1;c s&#x1EF1;, th&#xEC; h&#xE3;y c&#xF3; l&#x1EAD;p tr&#x1B0;&#x1EDD;ng ri&#xEA;ng, v&#xE0; &#x111;&#x1EEB;ng d&#xF9;ng.</p>

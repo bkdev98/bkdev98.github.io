@@ -6,7 +6,6 @@ thumb: thumb.jpg
 tags: ["react", "redux", "general"]
 ---
 
-# Năm hai React
 Bắt đầu một công nghệ mới có thể khá rắc rối. Bạn sẽ tìm thấy mình trong một đại dương mênh mông các hướng dẫn, bài viết, cùng hàng triệu những ý kiến cá nhân. Và ai nấy cũng đặt tiêu đề rằng họ là đã tìm thấy “cách đúng đắn nhất“.
 
 Trước khi lặn xuống đại đương ấy, chúng ta phải hiểu các khái niệm cơ bản của công nghệ. Sau đó, ta cần phát triển một tư duy dựa trên công nghệ đó. Nếu bạn bắt đầu học React, điều đầu tiên cần làm là hiểu được những suy nghĩ trong React. Chỉ như vậy, sau này bạn mới có thể kết hợp những suy nghĩ khác nhau thành một.
@@ -17,7 +16,7 @@ Trong bài viết này, tôi sẽ đề cập đến một số bài học mà t
 
 ## React đang phát triển, bạn phải luôn luôn cập nhật
 Nếu bạn có mặt ở thời điểm Facebook đưa ra những thông báo ban đầu về phiên bản 16.3.0, bạn sẽ thấy mọi người đều đã phấn khích như thế nào.
-Dưới đây là một số thay đổi và cải tiến mà tôi nhận được:
+Dưới đây là một số thay đổi và cải tiến mà tôi cập nhật được:
 * Context API được nâng cấp, trở thành một sự thay thế cho Redux
 * createRef API
 * forwardRef API
@@ -38,13 +37,13 @@ Tận dùng được điều này để khi một ai đó, hay thậm chí là c
 ```
 // dễ hiểu mà phải không?
 return (
-	[
-		<ChangeButton
-			onClick={this.changeUserStatus}
-			text="Cập nhật"
-		/>,
-		<UserInformation status={status}/>
-	]
+  <Container>
+    <ChangeButton
+      onClick={this.changeUserStatus}
+      text="Cập nhật"
+    />
+    <UserInformation status={status}/>
+  </Container>
 );
 ```
 

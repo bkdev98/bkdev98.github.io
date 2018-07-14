@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khanhquoc.press/</id>
     <title>Khanh Quoc Press</title>
-    <updated>2018-07-11T07:33:41Z</updated>
+    <updated>2018-07-14T04:58:45Z</updated>
     <author>
         <name>Quoc Khanh</name>
         <email>khanhbq@innoteq.vn</email>
@@ -380,6 +380,34 @@ Nh&#x1B0;ng c&#x169;ng ch&#x1EB3;ng sao, ch&#x1EC9; c&#x1EA7;n c&#xF2;n s&#x1EF1
 <figure><img src="https://khanhquoc.press/blog/thuc-hien-du-an-full-stack-dau-tien/https://i.imgur.com/m9GHc7M.jpg" alt="Goodbye Yello Brick Road" class="full-width"><figcaption>Goodbye Yello Brick Road</figcaption></figure>
 <p>M&#x1EDB;i &#x111;&#xF3; &#x111;&#xE3; hai gi&#x1EDD; s&#xE1;ng, m&#xE0; b&#x1EA3;n <a href="https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE">Goodbye Yellow Brick Road</a> v&#x1EAB;n &#x111;ang th&#x1ED5;n th&#x1EE9;c, c&#xF2;n t&#xF4;i v&#x1EAB;n m&#xEA; say trong &#x111;&#x1ED1;ng code ng&#x1ED5;n ngang.
 L&#x1EA1;i m&#x1ED9;t ng&#xE0;y n&#x1EEF;a tr&#xF4;i qua, m&#x1ED9;t ng&#xE0;y tr&#x1EDD;i s&#x1EBD; nhi&#x1EC1;u n&#x1EAF;ng.</p>
+]]></content>
+        <author>
+            <name>Quoc Khanh</name>
+            <email>khanhbq@innoteq.vn</email>
+            <uri>https://khanhquoc.press/about</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tôi có một cô bạn cùng tuổi]]></title>
+        <id>https://khanhquoc.press/blog/toi-co-mot-co-ban-cung-tuoi/</id>
+        <link href="https://khanhquoc.press/blog/toi-co-mot-co-ban-cung-tuoi/">
+        </link>
+        <updated>2018-07-13T17:00:00Z</updated>
+        <summary type="html"><![CDATA[Hai đứa thỉnh thoảng nói chuyện phiếm với nhau.]]></summary>
+        <content type="html"><![CDATA[<figure><img src="https://khanhquoc.press/blog/toi-co-mot-co-ban-cung-tuoi/thumbnail.png" alt="&quot;Lost In Translation by Sofia Coppola&quot;" class="full-width"><figcaption>&quot;Lost In Translation by Sofia Coppola&quot;</figcaption></figure>
+<p>Hai &#x111;&#x1EE9;a th&#x1EC9;nh tho&#x1EA3;ng n&#xF3;i chuy&#x1EC7;n phi&#x1EBF;m v&#x1EDB;i nhau.</p>
+<p>Sau n&#xE0;y, n&#x1EBF;u t&#xF4;i v&#xE0; c&#xF4; &#x1EA5;y c&#xF3; l&#x1EE1; v&#x1EAB;n th&#xED;ch &#x1EDF; m&#x1ED9;t m&#xEC;nh, c&#xF4; s&#x1EBD; l&#xEA;n &#x110;&#xE0; L&#x1EA1;t m&#x1EDF; m&#x1ED9;t qu&#xE1;n caf&#xE9; nh&#x1ECF;. C&#xF2;n t&#xF4;i l&#xE0; l&#xE3;o tr&#x1ED3;ng hoa gi&#xE0;. H&#xE0;ng s&#xE1;ng, l&#xE3;o n&#xF4;ng d&#xE2;n t&#x1EB7;ng c&#xF4; ch&#x1EE7; nh&#x1ECF; m&#x1ED9;t b&#xF4;ng hoa r&#x1ED3;i ng&#x1ED3;i u&#x1ED1;ng t&#xE1;ch caf&#xE9;, m&#x1EDF; m&#xE1;y t&#xED;nh code v&#xE0;i d&#xF2;ng nh&#xE2;m nhi cu&#x1ED9;c s&#x1ED1;ng. Cu&#x1ED9;c &#x111;&#x1EDD;i sao qu&#xE1; ng&#x1EAF;n m&#xE0; n&#x1ED7;i ni&#x1EC1;m ch&#xFA;ng ta l&#x1EA1;i qu&#xE1; d&#xE0;i. V&#x1EAD;y n&#xEA;n hai &#x111;&#x1EE9;a quy&#x1EBF;t &#x111;&#x1ECB;nh c&#x1EE9; t&#x1EAD;n h&#x1B0;&#x1EDF;ng ch&#x1EA7;m ch&#x1EAD;m n&#xF3;.</p>
+<p>M&#x1EB7;c d&#xF9; v&#x1EAD;y, t&#xF4;i l&#xE0; ng&#x1B0;&#x1EDD;i coi tr&#x1ECD;ng c&#xF4;ng vi&#x1EC7;c v&#xE0; lu&#xF4;n c&#x1ED1; ph&#xE1;t tri&#x1EC3;n n&#xF3;, c&#xF2;n c&#xF4; &#x1EA5;y, c&#xF3; l&#x1EBD; c&#x169;ng c&#xF2;n nhi&#x1EC1;u m&#x1ED1;i quan t&#xE2;m kh&#xE1;c.</p>
+<p>C&#x169;ng ch&#x1EB3;ng sao, nh&#x1EEF;ng c&#xE2;u chuy&#x1EC7;n phi&#x1EBF;m gi&#x1EEF;a hai &#x111;&#x1EE9;a v&#x1EAB;n lu&#xF4;n kh&#xF4;ng &#x111;&#x1EA7;u, kh&#xF4;ng cu&#x1ED1;i v&#xE0; kh&#xF4;ng c&#x1EA7;n t&#x1B0;&#x1A1;ng lai nh&#x1B0; v&#x1EAD;y.</p>
+<p>T&#xF4;i c&#xF3; v&#xE0;i m&#x1ED1;i quan h&#x1EC7; nh&#x1B0; th&#x1EBF;.</p>
+<p>N&#xF3;i gi&#x1ED1;ng kh&#xF4;ng ph&#x1EA3;i &#xFD; r&#x1EB1;ng h&#x1ECD; c&#x169;ng th&#xED;ch l&#xEA;n &#x110;&#xE0; L&#x1EA1;t, hay t&#xF4;i c&#x169;ng th&#xED;ch t&#x1EB7;ng hoa cho h&#x1ECD;. Gi&#x1ED1;ng &#x1EDF; c&#xE1;ch ch&#xFA;ng t&#xF4;i l&#xE0;m b&#x1EA1;n v&#x1EDB;i nhau.</p>
+<p>&#x110;&#xF4;i khi thay v&#xEC; g&#x1ECD;i b&#x1EA1;n b&#xE8; theo m&#x1EE9;c &#x111;&#x1ED9; th&#xE2;n thi&#x1EBF;t, c&#xF3; nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i b&#x1EA1;n t&#xF4;i th&#x1B0;&#x1EDD;ng g&#x1ECD;i l&#xE0; &#x201C;B&#x1EA1;n <s>nh&#x1EAD;u</s> c&#xE0; ph&#xEA;&#x201D;. C&#x169;ng kh&#xF4;ng ph&#x1EA3;i ch&#xFA;ng t&#xF4;i th&#xED;ch u&#x1ED1;ng caf&#xE9;, th&#x1EC9;nh tho&#x1EA3;ng u&#x1ED1;ng tr&#xE0; &#x111;&#xE0;o cam s&#x1EA3;, hay&#x2026; bia n&#x1EEF;a, &#x111;&#x1EC3; gi&#x1EBF;t th&#x1EDD;i gian.</p>
+<p>&#x110;&#xE2;y ch&#x1EC9; l&#xE0; c&#xE1;ch t&#xF4;i g&#x1ECD;i m&#x1EF9; mi&#x1EC1;u cho nh&#x1EEF;ng m&#x1ED1;i quan h&#x1EC7; t&#xF4;i kh&#xF4;ng bi&#x1EBF;t g&#x1ECD;i t&#xEA;n.</p>
+<p>Nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i b&#x1EA1;n n&#xE0;y, t&#xF4;i kh&#xF4;ng th&#x1EC3; g&#x1ECD;i h&#x1ECD; l&#xE0; b&#x1EA1;n th&#xE2;n, ch&#xFA;ng t&#xF4;i kh&#xF4;ng g&#x1EB7;p nhau th&#x1B0;&#x1EDD;ng xuy&#xEA;n, kh&#xF4;ng m&#x1ED3;m n&#x103;m mi&#x1EC7;ng m&#x1B0;&#x1EDD;i, kh&#xF4;ng k&#x1EC1; vai kho&#xE1;c c&#x1ED5;, kh&#xF4;ng ch&#x1EED;i nhau li&#xEA;n h&#x1ED3;i, c&#x169;ng ch&#x1EB3;ng tr&#x1EA7;m t&#x1B0; cho nh&#x1EEF;ng ph&#xFA;t gi&#xE2;y m&#x1EC7;t m&#x1ECF;i m&#x1EC1;m y&#x1EBF;u. H&#x1ECD; c&#x169;ng kh&#xE1;c xa nh&#x1EEF;ng m&#x1ED1;i quan h&#x1EC7; x&#xE3; giao, g&#x1EB7;p nhau ch&#x1EC9; h&#x1ECF;i v&#xE0;i c&#xE2;u vu v&#x1A1; c&#xF4;ng vi&#x1EC7;c, li&#xEA;n l&#x1EA1;c v&#xEC; c&#xF3; vi&#x1EC7;c nh&#x1EDD; v&#x1EA3;, l&#xE0;m &#x103;n hay th&#xFA; v&#x1ECB; h&#x1A1;n n&#x1EEF;a l&#xE0; m&#x1EDD;i &#x111;i l&#xE0;m &#x111;a c&#x1EA5;p.</p>
+<p>T&#xEC;nh b&#x1EA1;n c&#x1EE7;a ch&#xFA;ng t&#xF4;i, nh&#x1B0; &#x1EDF; m&#x1ED9;t th&#x1EBF; gi&#x1EDB;i ri&#xEA;ng, n&#x1A1;i m&#xE0; th&#x1EDD;i gian v&#xE0; kh&#xF4;ng gian ch&#x1EB3;ng ph&#x1EA3;i l&#xE0; v&#x1EA5;n &#x111;&#x1EC1;. C&#xF3; th&#x1EC3; v&#xE0;i tu&#x1EA7;n g&#x1EB7;p m&#x1ED9;t l&#x1EA7;n, c&#xF3; th&#x1EC3; c&#x1EA3; n&#x103;m g&#x1EB7;p m&#x1ED9;t l&#x1EA7;n, nh&#x1EDB; nhau th&#xEC; g&#x1EB7;p. D&#xE0;nh m&#x1ED9;t bu&#x1ED5;i t&#x1ED1;i r&#x1EA3;nh r&#x1ED7;i trong m&#x1ED9;t qu&#xE1;n caf&#xE9; nh&#x1ECF; &#x111;&#x1EC3; m&#x1ED7;i &#x111;&#x1EE9;a c&#xF3; th&#x1EC3; n&#xF3;i linh tinh.</p>
+<p>&#x110;&#xF4;i khi ch&#x1EC9; l&#xE0; v&#xE0;i c&#xE2;u chuy&#x1EC7;n vu v&#x1A1; v&#x1EC1; nh&#x1EEF;ng &#x111;i&#x1EC1;u v&#x1EEB;a tr&#x1EA3;i qua, &#x111;&#xF4;i khi ch&#x1EC9; lan mang h&#x1EEF;ng t&#xE2;m s&#x1EF1; m&#xE0; ng&#x1B0;&#x1EDD;i kia kh&#xF4;ng bao gi&#x1EDD; l&#xE0; m&#x1ED9;t ph&#x1EA7;n trong &#x111;&#xF3;. Ch&#x1EC9; l&#xE0; ch&#xFA;ng t&#xF4;i mu&#x1ED1;n tho&#xE1;t ra kh&#x1ECF;i nh&#x1EEF;ng ng&#x1ED5;n ngang c&#x1EE7;a cu&#x1ED9;c s&#x1ED1;ng b&#x1EB1;ng nh&#x1EEF;ng m&#x1A1; m&#x1ED9;ng c&#x1EE7;a tu&#x1ED5;i tr&#x1EBB;.</p>
+<p>C&#xF3; v&#x1EBB; nh&#x1B0; &#x111;&#x1EE7; s&#x1EF1; xa l&#x1EA1; c&#x1EA7;n thi&#x1EBF;t &#x111;&#x1EC3; m&#x1ED7;i &#x111;&#x1EE9;a kh&#xF4;ng b&#x1ECB; &#x1EA3;nh h&#x1B0;&#x1EDF;ng b&#x1EDF;i nh&#x1EEF;ng t&#xE2;m s&#x1EF1; c&#x1EE7;a nhau nh&#x1B0;ng l&#x1EA1;i c&#xF3; nhi&#x1EC1;u &#x111;i&#x1EC3;m chung &#x111;&#x1EC3; m&#x1ED7;i &#x111;&#x1EE9;a c&#xF3; th&#x1EC3; g&#x1EAD;t g&#xF9; v&#xE0; s&#x1ED1;ng th&#xEA;m m&#x1ED9;t cu&#x1ED9;c s&#x1ED1;ng c&#x1EE7;a ng&#x1B0;&#x1EDD;i kh&#xE1;c.</p>
+<p>C&#xE1;i c&#xE1;ch ch&#xFA;ng t&#xF4;i l&#xE0;m b&#x1EA1;n, c&#x169;ng gi&#x1ED1;ng nh&#x1B0; nh&#x1EEF;ng con ng&#x1B0;&#x1EDD;i va ph&#x1EA3;i nhau trong d&#xF2;ng ng&#x1B0;&#x1EDD;i. C&#xF3; th&#xEA;m th&#x1EDD;i gian c&#xFA;i xu&#x1ED1;ng s&#x1EED;a sang l&#x1EA1;i gi&#xE0;y d&#xE9;p, ng&#x1EAF;m ngh&#xED;a l&#x1EA1;i b&#x1EA3;n th&#xE2;n, r&#x1ED3;i ti&#x1EBF;p t&#x1EE5;c con &#x111;&#x1B0;&#x1EDD;ng c&#x1EE7;a ri&#xEA;ng m&#xEC;nh. Ch&#x1EC9; nh&#x1B0; v&#x1EAD;y th&#xF4;i nh&#x1B0;ng l&#x1EA1;i ng&#x1ECD;t ng&#xE0;o &#x111;&#x1EBF;n kh&#xF4;ng t&#x1B0;&#x1EDF;ng. C&#xF3; l&#x1EBD; v&#xEC; cu&#x1ED9;c s&#x1ED1;ng n&#xE0;y b&#x1EAD;n r&#x1ED9;n qu&#xE1; l&#x1EA1;i khi&#x1EBF;n nh&#x1EEF;ng m&#x1ED1;i quan h&#x1EC7; n&#xE0;y tr&#x1EDF; n&#xEA;n th&#xFA; v&#x1ECB; v&#xE0; &#x111;&#x1EB7;c bi&#x1EC7;t nh&#x1B0; th&#x1EBF;.</p>
 ]]></content>
         <author>
             <name>Quoc Khanh</name>

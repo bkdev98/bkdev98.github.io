@@ -2,10 +2,13 @@
 title: Ngày đẹp trời
 date: 06/26/2018
 tags: ["emotions"]
+thumbnail: thumb.jpg
 description: >-
   Tôi thích những ngày một mình, đi dạo trên đường, đôi khi lại nằm dài ra ghế,
   đọc những điều linh tinh, nhìn những thứ lãng mạn, nghĩ những điều vụn vặt.
 ---
+
+![](./thumb.jpg){.full-width}
 
 Tôi thích những ngày một mình, đi dạo trên đường, đôi khi lại nằm dài ra ghế, đọc những điều linh tinh, nhìn những thứ lãng mạn, nghĩ những điều vụn vặt.
 

@@ -19,6 +19,7 @@ Vừa mới hôm qua, tôi tìm thấy mình trong một ngày Sài Gòn lạnh 
 > Tôi vẫn hay quan niệm mọi thứ cũ, nếu mình cứ để nguyên như thế thì mọi chuyện sẽ vẫn như thế, sẽ chẳng thay đổi, gặp lại vẫn thấy mọi thứ như chỉ ngày hôm qua mà thôi. Nhưng càng ngày càng nhận ra mọi thứ sẽ chẳng bao giờ như thế.
 
 Ngày hôm nay, tôi lại tìm thấy mình, xem bộ phim Christopher Robin, trong tháng ngày thơ ấu mà tôi vô tình đánh mất. Thời thơ ấu về Nội ăn chơi cả tuần, có khi là vài tuần. Thời thơ ấu chạy đua với Lu Lu của tôi trên cánh đồng lúa sau nhà…
+
 Nhưng điều lạ lùng là tôi không thể nhớ đâu là thời điểm chính xác mà cái thời thơ ấu ấy kết thúc. Khi tôi vào cấp ba? Hay sớm hơn khi tôi lên lớp chín và chơi với đám bạn ở trường nhiều hơn? Hay trước đó nữa? Chỉ biết rằng một ngày khi nhìn lại, nó đã chẳng còn ở đó nữa, phủi sạch, không còn dấu vết.
 
 > Cuộc sống này thật quá. Mọi thứ ở xung quanh. Ngày nào đó sẽ chẳng còn như cũ nữa. Ngày nào đó tất cả sẽ biến mất.

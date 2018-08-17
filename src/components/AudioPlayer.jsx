@@ -1,23 +1,29 @@
 import React, { Component } from 'react';
-import { Media, Player, controls } from 'react-media-player';
 import PlayPause from './PlayPause';
 import MuteUnmute from './MuteUnmute';
 import '../scss/main.scss';
 
-const { CurrentTime, SeekBar, Duration, Volume } = controls;
+const isBrowser = typeof window !== 'undefined';
+const { Media, Player, controls } = isBrowser ? require('react-media-player') : {};
 
-const audioContext = new (window.AudioContext || window.webkitAudioContext)(); // eslint-disable-line
-const panner = audioContext.createPanner();
+const { CurrentTime, SeekBar, Duration, Volume } = isBrowser ? controls : {};
 
-panner.setPosition(0, 0, 1);
-panner.panningModel = 'equalpower';
-panner.connect(audioContext.destination);
+const audioContext = isBrowser ? new (window.AudioContext || window.webkitAudioContext)() : null; // eslint-disable-line
+let panner;
+if (audioContext) {
+  panner = audioContext.createPanner();
+  panner.setPosition(0, 0, 1);
+  panner.panningModel = 'equalpower';
+  panner.connect(audioContext.destination);
+}
 
 class AudioPlayer extends Component {
   componentDidMount() {
-    const source = audioContext.createMediaElementSource(this.player.instance);
-    source.connect(panner);
-    panner.connect(audioContext.destination);
+    if (isBrowser) {
+      const source = audioContext.createMediaElementSource(this.player.instance);
+      source.connect(panner);
+      panner.connect(audioContext.destination);
+    }
   }
 
   handlePannerChange = ({ target }) => {
@@ -28,6 +34,9 @@ class AudioPlayer extends Component {
   }
 
   render() {
+    if (!isBrowser) {
+      return null;
+    }
     return (
       <Media>
         <div>

@@ -9,6 +9,7 @@ description: >-
 tags: ["movies", "life"]
 thumbnail: groundhog-day.jpg
 audio: https://s3-ap-southeast-1.amazonaws.com/fba-website/files/George_Fenton_The_Ice_Sculpture.mp3
+draft: true
 ---
 
 > Có những bộ phim luôn hay hơn sau mỗi lần xem. Tôi có một vài bộ phim không bao giờ xóa. Và thật lạ lùng bởi ma thuật này. Những cảnh phim vẫn thế, âm nhạc vẫn thế, diễn viên vẫn thế, không có gì thay đổi, nhưng ta lại tìm thấy những điều mới, cảm xúc mới, nhận ra những điều ta chưa thấy trước đây và thấm thía hơn những gì ta đã biết.

@@ -5,9 +5,9 @@ description: >-
   Chiều tôi bật một bản nhạc nhẹ nhàng đã lâu không nghe, tự cho phép mình hoàn
   tất công việc và tắt máy tính. Rồi ngồi trên ghế, nhâm nhi tách trà tự pha
   trong yên lặng.
+thumbnail: thumb.jpg
+tags: ["emotions", "life"]
 audio: 	https://s3-ap-southeast-1.amazonaws.com/ipeedy/uploads/SomewhereOnlyWeKnow-Keane-3043868.mp3
-tags: ["emotion", "life"]
-thumbnail: thumb.JPG
 ---
 
 Chiều tôi bật một bản nhạc nhẹ nhàng đã lâu không nghe, tự cho phép mình hoàn tất công việc và tắt máy tính. Rồi ngồi trên ghế, nhâm nhi tách trà tự pha trong yên lặng.

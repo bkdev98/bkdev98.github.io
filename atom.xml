@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://khanhquoc.press/</id>
     <title>Khanh Quoc Press</title>
-    <updated>2018-08-21T05:28:25Z</updated>
+    <updated>2018-08-28T13:56:19Z</updated>
     <author>
         <name>Quoc Khanh</name>
         <email>khanhbq@innoteq.vn</email>
@@ -376,6 +376,29 @@ V&#xE0; ng&#xE0;y h&#xF4;m nay, t&#xF4;i v&#x1EAB;n c&#x1EA3;m th&#x1EA5;y h&#x1
 <p>V&#xE0; t&#xF4;i c&#x169;ng th&#x1B0;&#x1EDD;ng t&#x1EF1; nh&#x1EAF;c nh&#x1EDF; r&#x1EB1;ng: &#x111;&#x1EC3; l&#xE0;m &#x111;&#x1B0;&#x1EE3;c nh&#x1EEF;ng &#x111;i&#x1EC1;u phi th&#x1B0;&#x1EDD;ng, b&#x1EA1;n ph&#x1EA3;i b&#x1EAF;t &#x111;&#x1EA7;u l&#xE0;m n&#xF3;.</p>
 <p>V&#xE0; m&#x1ECD;i th&#x1EE9; c&#xF3; v&#x1EBB; &#x111;&#xE3; kh&#x1EDF;i &#x111;&#x1ED9;ng.</p>
 <figure><img src="https://khanhquoc.press/blog/roi-lai-bat-dau/thumb.png" alt="" class="full-width"></figure>
+]]></content>
+        <author>
+            <name>Quoc Khanh</name>
+            <email>khanhbq@innoteq.vn</email>
+            <uri>https://khanhquoc.press/about</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somewhere Only We Know]]></title>
+        <id>https://khanhquoc.press/blog/somewhere-only-we-know/</id>
+        <link href="https://khanhquoc.press/blog/somewhere-only-we-know/">
+        </link>
+        <updated>2018-08-21T17:00:00Z</updated>
+        <summary type="html"><![CDATA[Chiều tôi bật một bản nhạc nhẹ nhàng đã lâu không nghe, tự cho phép mình hoàn tất công việc và tắt máy tính. Rồi ngồi trên ghế, nhâm nhi tách trà tự pha trong yên lặng.]]></summary>
+        <content type="html"><![CDATA[<p>Chi&#x1EC1;u t&#xF4;i b&#x1EAD;t m&#x1ED9;t b&#x1EA3;n nh&#x1EA1;c nh&#x1EB9; nh&#xE0;ng &#x111;&#xE3; l&#xE2;u kh&#xF4;ng nghe, t&#x1EF1; cho ph&#xE9;p m&#xEC;nh ho&#xE0;n t&#x1EA5;t c&#xF4;ng vi&#x1EC7;c v&#xE0; t&#x1EAF;t m&#xE1;y t&#xED;nh. R&#x1ED3;i ng&#x1ED3;i tr&#xEA;n gh&#x1EBF;, nh&#xE2;m nhi t&#xE1;ch tr&#xE0; t&#x1EF1; pha trong y&#xEA;n l&#x1EB7;ng.</p>
+<p>Kh&#xF4;ng ph&#x1EA3;i kh&#xF4;ng mu&#x1ED1;n l&#xE0;m g&#xEC;, m&#xE0; t&#x1EA5;t c&#x1EA3; nh&#x1EEF;ng g&#xEC; mu&#x1ED1;n l&#xE0;m ch&#x1EC9; l&#xE0; ng&#x1ED3;i tr&#xEA;n gh&#x1EBF; v&#xE0; u&#x1ED1;ng tr&#xE0;.</p>
+<p>&#x110;&#xE2;u &#x111;&#xF3; m&#x1ED9;t l&#x1EA7;n t&#xF4;i vi&#x1EBF;t v&#x1EC1; s&#x1EF1; c&#xF4; &#x111;&#x1A1;n, khi m&#xE0; c&#x1EA3;m gi&#xE1;c m&#x1ED9;t m&#xEC;nh tr&#x1EDF; n&#xEA;n quen thu&#x1ED9;c &#x111;&#x1EBF;n n&#x1ED7;i ta kh&#xF4;ng nh&#x1EAD;n ra m&#xEC;nh &#x111;&#xE3; quen v&#x1EDB;i n&#xF3;. &#x110;&#x1EC3; r&#x1ED3;i m&#x1ED9;t ng&#xE0;y, khi m&#xE0; ng&#x1ED3;i u&#x1ED1;ng tr&#xE0; m&#x1EDB;i ch&#x1EE3;t nh&#x1EAD;n ra, th&#xEC; l&#xFA;c &#x111;&#x1EA5;y c&#xF4; &#x111;&#x1A1;n bi&#x1EBF;t ch&#x1EEB;ng n&#xE0;o.</p>
+<p>Ta s&#x1EBD; kh&#xF4;ng nh&#x1EAD;n ra m&#xEC;nh c&#xF4; &#x111;&#x1A1;n cho &#x111;&#x1EBF;n khi th&#x1EF1;c s&#x1EF1; mu&#x1ED1;n &#x1EDF; c&#xF9;ng ai &#x111;&#xF3;.</p>
+<p>L&#xFA;c &#x111;&#x1EA5;y c&#x1EA3; th&#x1EBF; gi&#x1EDB;i t&#x1B0;&#x1EDF;ng ch&#x1EEB;ng ch&#x1EC9; nh&#x1B0; m&#x1ED9;t kh&#xF4;ng gian t&#x129;nh l&#x1EB7;ng m&#xE0; t&#x1EA5;t c&#x1EA3; nh&#x1EEF;ng g&#xEC; ch&#x1EDD; &#x111;&#x1EE3;i l&#xE0; m&#x1ED9;t &#xE2;m thanh t&#x1EEB; n&#x1A1;i s&#x1EBD; kh&#xF4;ng bao gi&#x1EDD; ph&#xE1;t ra.</p>
+<p>Nh&#x1EEF;ng ng&#xE0;y c&#xF4; &#x111;&#x1A1;n &#x111;&#xF4;i khi ch&#x1EC9; &#x111;&#x1A1;n gi&#x1EA3;n r&#x1EB1;ng ta cho ph&#xE9;p b&#x1EA3;n th&#xE2;n ch&#x1EA5;p nh&#x1EAD;n r&#x1EB1;ng m&#xEC;nh c&#xF4; &#x111;&#x1A1;n. N&#xF3; kh&#xF4;ng bao gi&#x1EDD; &#x111;&#x1EBF;n m&#x1ED9;t m&#xEC;nh, m&#xE0; c&#x169;ng ch&#x1EB3;ng bao gi&#x1EDD; &#x111;&#x1EBF;n tr&#x1B0;&#x1EDB;c.</p>
+<p>N&#xF3;i v&#x1EAD;y th&#xF4;i, t&#xF4;i kh&#xF4;ng bao gi&#x1EDD; hi&#x1EC3;u &#x111;&#x1B0;&#x1EE3;c c&#xE1;i c&#x1EA3;m gi&#xE1;c c&#xF4; &#x111;&#x1A1;n n&#xE0;y c&#x1EE7;a b&#x1EA3;n th&#xE2;n m&#xEC;nh.</p>
+<p>T&#xF4;i th&#xED;ch m&#x1ED9;t m&#xEC;nh lang thang qua nh&#x1EEF;ng con &#x111;&#x1B0;&#x1EDD;ng trong th&#xE0;nh ph&#x1ED1;. &#x110;&#x1EC3; t&#xEC;m th&#x1EA5;y m&#x1ED9;t qu&#xE1;n caf&#xE9;, g&#x1ECD;i m&#x1ED9;t ly v&#xE0; ngh&#x129; v&#x1EC1; b&#x1EA3;n th&#xE2;n - t&#xF4;i &#x111;ang &#x1EDF; &#x111;&#xE2;y, kh&#xF4;ng bi&#x1EBF;t ai c&#x1EA3;, u&#x1ED1;ng caf&#xE9; c&#x1EE7;a t&#xF4;i v&#xE0; &#x111;&#x1ECD;c quy&#x1EC3;n s&#xE1;ch c&#x1EE7;a t&#xF4;i. Ch&#x1EC9; &#x111;&#x1EC3; ng&#x1ED3;i &#x1EDF; &#x111;&#xE2;u &#x111;&#xF3; tr&#xE1;nh &#x111;&#x1B0;&#x1EE3;c c&#x1A1;n m&#x1B0;a, v&#xE0; tuy&#xEA;n b&#x1ED1; v&#x1EDB;i t&#x1EA5;t c&#x1EA3; r&#x1EB1;ng &#x111;&#xF3; l&#xE0; ph&#xE1;o &#x111;&#xE0;i c&#x1EE7;a ri&#xEA;ng m&#xEC;nh.</p>
+<p>T&#xF4;i ngh&#x129; v&#x1EC1; m&#xEC;nh &#x1EDF; g&#xF3;c nh&#xEC;n th&#x1EE9; ba: H&#x1EAF;n ta l&#xE0; ai? B&#xED; m&#x1EAD;t c&#x1EE7;a h&#x1EAF;n l&#xE0; g&#xEC;? T&#xF4;i r&#x1EA5;t th&#xED;ch m&#x1ED9;t b&#xE0;i h&#xE1;t c&#x1EE7;a Keane c&#xF3; t&#xEA;n l&#xE0; Somewhere Only We Know. K&#x1EC3; v&#x1EC1; m&#x1ED9;t n&#x1A1;i t&#xF4;i c&#xF3; th&#x1EC3; code v&#xE0;i d&#xF2;ng v&#xE0; ch&#x1EDD; &#x111;&#x1EE3;i m&#xF3;n b&#xE1;nh matcha ng&#x1ECD;t ng&#xE0;o c&#x1EE7;a m&#xEC;nh, m&#x1ED9;t n&#x1A1;i m&#xE0; ch&#x1EC9; m&#xEC;nh t&#xF4;i bi&#x1EBF;t t&#x1EDB;i.</p>
 ]]></content>
         <author>
             <name>Quoc Khanh</name>

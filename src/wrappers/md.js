@@ -9,7 +9,7 @@ import Tags from '../components/Tags';
 import Bio from '../components/Bio';
 import AudioPlayer from '../components/AudioPlayer';
 import { isBlogPost, getBlogPosts, getNextPosts, getPostsFromPaths } from '../utils/blog-helpers';
-import avatar from '../../images/avatar.jpg';
+import avatar from '../../images/profile.jpg';
 
 import '../css/tomorrow-night.css';
 

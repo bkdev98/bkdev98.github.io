@@ -4,6 +4,7 @@ date: 10/21/2018
 description: Mấy hôm nay bạn bè tôi hay dùng một công cụ để xem lại những tin nhắn Facebook đầu tiên với một ai đó, mới nhận ra mình đã quên mất tính năng này bao lâu nay.
 tags: ["general", "life"]
 thumbnail: thumb.png
+draft: true
 ---
 
 ![Nighthawks, 1942 by Edward Hopper](./thumb.png){.full-width}

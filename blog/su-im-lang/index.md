@@ -6,6 +6,7 @@ description: >-
   để tìm kiếm thông tin, sách là để tìm kiếm kiến thức, còn blog là để tìm kiếm
   sự đồng cảm.
 tags: ["general"]
+draft: true
 ---
 
 Một thói quen mà tôi vẫn còn giữ được khi lên đại học là đọc blog. Báo chí là để tìm kiếm thông tin, sách là để tìm kiếm kiến thức, còn blog là để tìm kiếm sự đồng cảm.

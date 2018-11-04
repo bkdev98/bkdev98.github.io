@@ -6,6 +6,7 @@ description: >-
   nỗi bản thân không biết phải đối diện với cảm xúc của mình như thế nào.
 thumbnail: thumb.jpg
 tags: ["general", "emotions"]
+draft: true
 ---
 
 Tháng vừa rồi có nhiều tiếc nuối, những thứ diễn ra quá muộn lại mạnh mẽ đến nỗi bản thân không biết phải đối diện với cảm xúc của mình như thế nào.

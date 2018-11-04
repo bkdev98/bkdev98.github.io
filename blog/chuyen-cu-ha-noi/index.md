@@ -7,6 +7,7 @@ description: >-
   lẫm này chẳng muốn chia sẻ với ai
 tags: ["general", "life"]
 thumbnail: thumb.png
+draft: true
 ---
 
 ![](./thumb.png){.full-width}

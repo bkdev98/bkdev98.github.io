@@ -6,6 +6,7 @@ description: >-
   quen mà chính ngày xưa cô ấy đã từng có.
 thumbnail: thumb.png
 tags: ["general", "emotions"]
+draft: true
 ---
 
 Tôi nhớ về phim The vow, một người vợ bị mất trí nhớ, và cô ấy sợ những thói quen mà chính ngày xưa cô ấy đã từng có.

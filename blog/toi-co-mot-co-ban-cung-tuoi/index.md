@@ -4,6 +4,7 @@ date: 07/14/2018
 description: Hai đứa thỉnh thoảng nói chuyện phiếm với nhau.
 thumbnail: thumbnail.png
 tags: ["general"]
+draft: true
 ---
 
 !["Lost In Translation by Sofia Coppola"](./thumbnail.png){.full-width}

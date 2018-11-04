@@ -5,6 +5,7 @@ description:
 tags: ["general"]
 thumbnail: moda.jpg
 audio: https://s3-ap-southeast-1.amazonaws.com/ipeedy/uploads/KhongConMuaThu.mp3
+draft: true
 ---
 
 

@@ -6,6 +6,7 @@ description: >-
 audio: https://s3-ap-southeast-1.amazonaws.com/ipeedy/uploads/CantHelpFallinginLove-ElvisPresley-2902662.mp3
 tags: ["movies"]
 thumbnail: thumb.png
+draft: true
 ---
 
 Dù có thêm bao nhiêu tuổi, xem bao nhiêu thể loại phim, tôi vẫn luôn dành tình cảm đặc biệt cho romantic comedies, những phim hài lãng mạn.

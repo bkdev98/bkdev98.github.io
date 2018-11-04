@@ -6,6 +6,7 @@ description: >-
 audio: https://s3-ap-southeast-1.amazonaws.com/ipeedy/uploads/Frank+Sinatra-+It+had+to+be+you.mp3
 tags: ["movies", "life"]
 thumbnail: thumb.jpg
+draft: true
 ---
 
 Càng lớn lên và càng có nhiều trải nghiệm về tình yêu, tôi càng cảm thấy rằng tình yêu xuất phát từ tình bạn dễ tan vỡ hơn, nhưng nếu có thể, thì sẽ là một tình yêu bền chặt lâu dài và thật sự hơn. Tôi nhớ đến câu nói của Joan trong The Imitation Game (2014) khiến bộ phim đó trở nên rất đặc biệt, “chúng ta sẽ có tâm trí của nhau”, khi cô bỏ qua cả vấn đề giới tính, hoặc quan niệm thông thường, để chấp nhận Alan.

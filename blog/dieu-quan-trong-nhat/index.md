@@ -6,6 +6,7 @@ description: >-
   oi và đông đúc những dòng người qua lại.
 thumbnail: sunset.jpg
 tags: ["emotions", "life"]
+draft: true
 ---
 !["Sunset at Quang Trung Software City."](./sunset.jpg){.full-width}
 

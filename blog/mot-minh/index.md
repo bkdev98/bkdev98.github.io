@@ -6,6 +6,7 @@ description: >-
   tập luyện cho vài khách quen rồi về nhà và tự sát bằng một phát súng vào đầu.
 thumbnail: thumb.jpg
 tags: ["general"]
+draft: true
 ---
 
 Tôi có một người bạn là huấn luyện viên thể chất. Một buổi sáng tháng Tám, anh tập luyện cho vài khách quen rồi về nhà và tự sát bằng một phát súng vào đầu.

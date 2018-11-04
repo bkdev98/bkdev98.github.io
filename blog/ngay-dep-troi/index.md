@@ -6,6 +6,7 @@ thumbnail: thumb.jpg
 description: >-
   Tôi thích những ngày một mình, đi dạo trên đường, đôi khi lại nằm dài ra ghế,
   đọc những điều linh tinh, nhìn những thứ lãng mạn, nghĩ những điều vụn vặt.
+draft: true
 ---
 
 ![](./thumb.jpg){.full-width}

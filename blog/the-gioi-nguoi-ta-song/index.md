@@ -6,6 +6,7 @@ description: >-
   nhưng cũng lâu rồi mới lại ăn một mình, ngồi một mình, nhìn thế giới một mình,
   nghe thế giới một mình, trong yên lặng.
 tags: ["general", "life"]
+draft: true
 ---
 
 Chiều cuối ngày tôi mới có thời gian đi ăn một mình. Lại suy nghĩ đủ chuyện, nhưng cũng lâu rồi mới lại ăn một mình, ngồi một mình, nhìn thế giới một mình, nghe thế giới một mình, trong yên lặng.

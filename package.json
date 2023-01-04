@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Quoc Khanh <khanhbq@innoteq.vn>",
   "dependencies": {
-    "gatsby": "^1.9.247",
+    "gatsby": "^5.3.3",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "react-helmet": "^5.2.0"
